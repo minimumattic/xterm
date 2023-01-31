@@ -64,6 +64,6 @@ xterm*vt100.scrollTtyOutput: false
 
 ##############################################################
 
-! run "xrdb -merge ~/.Xresources" to apply changes
+! "xrdb -merge ~/.Xresources" --> apply changes
 ! "xrdb -query > current_X_resources" --> reset
 ! "xrdb -load ~/.Xresources" --> load current settings
