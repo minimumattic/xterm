@@ -33,7 +33,7 @@ xterm*vt100.faceNameDoublesize: AR PL UMing HK
 ! APPLE IIc: #66FF66
 ! background: #282828
 
-! Color: GREEN 3:
+! Color > GREEN 3:
 xterm*vt100.background: rgb:28/28/28
 xterm*vt100.foreground: rgb:00/ff/66
 
