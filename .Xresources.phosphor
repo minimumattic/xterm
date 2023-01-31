@@ -23,7 +23,7 @@ xterm*vt100.initialFont: 3
 ! Chinese fonts:
 xterm*vt100.faceNameDoublesize: AR PL UMing HK
 
-! Vintage PC - CRT Phospore colors:
+! Vintage PC - CRT Phospor colors:
 ! AMBER: #FFB000
 ! AMBER-LT: #FFCC00
 ! GREEN 1: #33FF00
