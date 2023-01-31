@@ -23,17 +23,6 @@ xterm*vt100.faceSize: 14
 ! Chinese fonts:
 xterm*vt100.faceNameDoublesize: AR PL UMing HK
 
-! Vintage PC - CRT Phospore colors:
-! AMBER: #FFB000
-! AMBER-LT: #FFCC00
-! GREEN 1: #33FF00
-! GREEN 2: #00FF33
-! GREEN 3: #00FF66
-! APPLE II: #33FF33
-! APPLE IIc: #66FF66
-! background: #282828
-! grey font: #aaaaaa
-
 ! Colors:
 xterm*vt100.background: rgb:48/10/36
 xterm*vt100.foreground: rgb:ff/ff/ff
