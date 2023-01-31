@@ -42,9 +42,6 @@ xterm*vt100.color13: rgb:fc/54/fc
 xterm*vt100.color14: rgb:54/fc/fc
 xterm*vt100.color15: rgb:fc/fc/fc
 
-! xterm*vt100.Background: #000000
-! xterm*vt100.Foreground: #aaaaaa
-
 ! Enable Right-side scrollbar:
 xterm*vt100.rightScrollBar: true
 xterm*vt100.ScrollBar: true
