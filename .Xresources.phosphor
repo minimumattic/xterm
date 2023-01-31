@@ -1,3 +1,5 @@
+XTerm configuration look like Vintage monochrome PCs with various CRT phosphor colors. 
+ 
 XTerm.termName: xterm-256color
 
 ! ensure using UTF-8

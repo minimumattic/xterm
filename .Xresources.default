@@ -1,3 +1,5 @@
+! Default XTerm configuration without TrueType font
+
 XTerm.termName: xterm-256color
 
 ! ensure using UTF-8
