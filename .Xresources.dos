@@ -1,0 +1,91 @@
+! initial font size (ctrl+right click VT fonts menu > 0:default 1:unreadable 2:tiny 3:small 4:medium 5:large 6:huge 7:enormous):
+! xterm*vt100.initialFont: 3
+
+! Enable/Disable TrueType:
+xterm*vt100.renderFont: true
+
+! Default font and size:
+xterm*vt100.faceName: Perfect DOS VGA 437
+xterm*vt100.faceSize: 12
+
+! Chinese fonts:
+xterm*faceNameDoublesize: AR PL UMing HK
+
+! Vintage PC - CRT Phospore colors:
+! AMBER: #FFB000
+! AMBER LT: #FFCC00
+! GREEN 1: #33FF00
+! GREEN 2: #00FF33
+! GREEN 3: #00FF66
+! APPLE II: #33FF33
+! APPLE IIC: #66FF66
+! background: #282828
+! grey font: #aaaaaa
+
+! DOSBox Colors:
+xterm*vt100.background: rgb:00/00/00
+xterm*vt100.foreground: rgb:a8/a8/a8
+xterm*vt100.color0: rgb:00/00/00
+xterm*vt100.color1: rgb:a8/00/00
+xterm*vt100.color2: rgb:00/a8/00
+xterm*vt100.color3: rgb:a8/54/00
+xterm*vt100.color4: rgb:00/00/a8
+xterm*vt100.color5: rgb:a8/00/a8
+xterm*vt100.color6: rgb:00/a8/a8
+xterm*vt100.color7: rgb:a8/a8/a8
+xterm*vt100.color8: rgb:54/54/54
+xterm*vt100.color9: rgb:fc/54/54
+xterm*vt100.color10: rgb:54/fc/54
+xterm*vt100.color11: rgb:fc/fc/54
+xterm*vt100.color12: rgb:54/54/fc
+xterm*vt100.color13: rgb:fc/54/fc
+xterm*vt100.color14: rgb:54/fc/fc
+xterm*vt100.color15: rgb:fc/fc/fc
+
+! xterm*vt100.Background: #000000
+! xterm*vt100.Foreground: #aaaaaa
+
+! Enable Right-side scrollbar:
+xterm*vt100.rightScrollBar: true
+xterm*vt100.ScrollBar: true
+
+! Scrollbacks:
+xterm*vt100.savelines: 16384
+
+! Cursor blink enable:
+xterm*vt100.cursorBlink: true
+
+! Set default xterm window size:
+xterm*vt100.geometry: 80x30
+
+! Double-click to select whole word and URLs:
+xterm*vt100.charClass: 33:48,36-47:48,58-59:48,61:48,63-64:48,95:48,126:48
+
+! Enable Alt key combination:
+xterm*vt100.metaSendsEscape: true
+
+! Enable clipboard:
+xterm*vt100.selectToClipboard: true
+
+! Use right-click for copy-paste instead of middle button:
+xterm*vt100.translations: #override \n\
+	~Ctrl ~Meta <Btn3Down>: ignore() \n\
+	Meta <Btn3Down>: clear-saved-lines() \n\
+	~Ctrl ~Meta <Btn3Up>: insert-selection(SELECT, CUT_BUFFER0) \n\
+	~Ctrl ~Meta <Btn2Down>: start-extend() \n\
+
+! Make <Alt> work:
+xterm*vt100.eightBitInput:   false
+xterm*vt100.eightBitOutput:  true
+
+! Every shell is a login shell by default (for inclusion of all necessary environment variables):
+xterm*vt100.loginshell: true
+
+! Stop output to terminal from jumping down to bottom of scroll again:
+xterm*vt100.scrollTtyOutput: false
+
+##############################################################
+
+! run "xrdb -merge ~/.Xresources" to apply changes
+! "xrdb -query > current_X_resources" --> reset
+! "xrdb -load ~/.Xresources" --> load current settings
