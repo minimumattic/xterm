@@ -1,5 +1,5 @@
 ! initial font size (ctrl+right click VT fonts menu > 0:default 1:unreadable 2:tiny 3:small 4:medium 5:large 6:huge 7:enormous):
-! xterm*vt100.initialFont: 3
+xterm*vt100.initialFont: 3
 
 ! Enable/Disable TrueType fonts:
 xterm*vt100.renderFont: true
