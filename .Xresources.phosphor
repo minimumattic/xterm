@@ -26,13 +26,13 @@ xterm*vt100.initialFont: 3
 xterm*vt100.faceNameDoublesize: AR PL UMing HK
 
 ! Vintage PC - CRT Phospor colors:
-! AMBER: #FFB000
-! AMBER-LT: #FFCC00
-! GREEN 1: #33FF00
-! GREEN 2: #00FF33
-! GREEN 3: #00FF66
-! APPLE II: #33FF33
-! APPLE IIc: #66FF66
+! AMBER: #ffbb000
+! AMBER-LT: #ffcc00
+! GREEN 1: #33ff00
+! GREEN 2: #00ff33
+! GREEN 3: #00ff66
+! APPLE II: #33ff33
+! APPLE IIc: #66ff66
 ! background: #282828
 
 ! Color > GREEN 3:

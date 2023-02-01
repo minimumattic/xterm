@@ -31,18 +31,18 @@ xterm*vt100.foreground: rgb:ff/ff/ff
 xterm*vt100.color0: rgb:00/00/00
 xterm*vt100.color1: rgb:c5/0f/1f
 xterm*vt100.color2: rgb:13/a1/0e
-xterm*vt100.color3: rgb:CD/CD/00
+xterm*vt100.color3: rgb:cd/cd/00
 xterm*vt100.color4: rgb:00/37/da
 xterm*vt100.color5: rgb:b4/00/9e
-xterm*vt100.color6: rgb:00/CD/CD
+xterm*vt100.color6: rgb:00/cd/cd
 xterm*vt100.color7: rgb:cc/cc/cc
 xterm*vt100.color8: rgb:76/76/76
 xterm*vt100.color9: rgb:e7/48/56
 xterm*vt100.color10: rgb:16/c6/0c
-xterm*vt100.color11: rgb:FF/FF/00
+xterm*vt100.color11: rgb:ff/ff/00
 xterm*vt100.color12: rgb:3b/78/ff
 xterm*vt100.color13: rgb:fc/54/fc
-xterm*vt100.color14: rgb:00/FF/FF
+xterm*vt100.color14: rgb:00/ff/ff
 xterm*vt100.color15: rgb:ee/ed/f0
 
 ! Enable Right-side scrollbar:
