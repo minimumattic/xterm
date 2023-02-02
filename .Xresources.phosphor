@@ -1,6 +1,6 @@
-XTerm Vintage monochrome configuration with various CRT phosphor colors. 
+! XTerm Vintage monochrome configuration with various CRT phosphor colors. 
  
-XTerm.termName: xterm-256color
+xterm.termName: xterm-256color
 
 ! ensure using UTF-8
 ! xterm.vt100.locale: true
@@ -77,11 +77,11 @@ xterm*vt100.loginshell: true
 xterm*vt100.scrollTtyOutput: false
 
 ! Fix backspace key
-XTerm.vt100.backarrowKey: false
-XTerm.ttyModes: erase ^?
+xterm.vt100.backarrowKey: false
+xterm.ttyModes: erase ^?
 
 ! Ctrl-M to maximize, Ctrl-R to restore terminal window
-XTerm.vt100.translations: #override \n\
+xterm.vt100.translations: #override \n\
     Ctrl <Key>M: maximize() \n\
     Ctrl <Key>R: restore()
 
