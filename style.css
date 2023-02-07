@@ -1,0 +1,173 @@
+	html {
+		font-family: sans-serif;
+		font-size: 10pt;
+		margin: 0 50px 0px 50px;
+		}
+
+	h4 {
+		font-style: italic;
+		}
+
+	table {
+		border-collapse: collapse;
+		border: 1px solid rgb(0,0,0);
+		letter-spacing: 1px;
+		font-size: 0.8rem;
+		}
+
+	td, th {
+		border: 1px solid rgb(0,0,0);
+		padding: 10px 20px;
+		}
+
+	td {
+		text-align: center;
+		}
+
+/* ################### Default colors ################## */
+
+	td.defaultBackground {background: #000;color: #fff;}
+	td.defaultFont {background: #fff;color: #000;}
+	td.defaultColor0 {background: #000;color: #fff;}
+	td.defaultColor1 {background: #cd0000;color: #fff;}
+	td.defaultColor2 {background: #00cd00;color: #fff;}
+	td.defaultColor3 {background: #cdcd00;color: #fff;}
+	td.defaultColor4 {background: #0000cd;color: #fff;}
+	td.defaultColor5 {background: #cd00cd;color: #fff;}
+	td.defaultColor6 {background: #00cdcd;color: #fff;}
+	td.defaultColor7 {background: #e5e5e5;color: #000;}
+	td.defaultColor8 {background: #7f7f7f;color: #fff;}
+	td.defaultColor9 {background: #ff0000;color: #fff;}
+	td.defaultColor10 {background: #00ff00;color: #000;}
+	td.defaultColor11 {background: #ffff00;color: #000;}
+	td.defaultColor12 {background: #5c5cff;color: #fff;}
+	td.defaultColor13 {background: #ff00ff;color: #fff;}
+	td.defaultColor14 {background: #00ffff;color: #000;}
+	td.defaultColor15 {background: #fff;color: #000;}
+
+/* ################### Ubuntu colors ################## */
+
+	td.ubuntuBackground {background: rgb(48,10,36);color: #fff;}
+	td.ubuntuFont {background: #ffffff;color: #000;}
+	td.ubuntuColor0 {background: #000000;color: #fff;}
+	td.ubuntuColor1 {background: #bb0000;color: #fff;}
+	td.ubuntuColor2 {background: #00bb00;color: #fff;}
+	td.ubuntuColor3 {background: #bbbb00;color: #fff;}
+	td.ubuntuColor4 {background: #0000b9;color: #fff;}
+	td.ubuntuColor5 {background: #bb00bb;color: #fff;}
+	td.ubuntuColor6 {background: #00bbbb;color: #fff;}
+	td.ubuntuColor7 {background: #bbbbbb;color: #000;}
+	td.ubuntuColor8 {background: #555555;color: #fff;}
+	td.ubuntuColor9 {background: #ff5555;color: #fff;}
+	td.ubuntuColor10 {background: #55ff55;color: #000;}
+	td.ubuntuColor11 {background: #ffff55;color: #000;}
+	td.ubuntuColor12 {background: #5555ff;color: #fff;}
+	td.ubuntuColor13 {background: #ff55ff;color: #fff;}
+	td.ubuntuColor14 {background: #55ffff;color: #000;}
+	td.ubuntuColor15 {background: #ffffff;color: #000;}
+
+/* ################### DOS colors ################## */
+
+	td.dosBackground {background: #000;color: #fff;}
+	td.dosFont {background: #aaa;color: #000;}
+	td.dosColor0 {background: #000;color: #fff;}
+	td.dosColor1 {background: #cd0000;color: #fff;}
+	td.dosColor2 {background: #00cd00;color: #fff;}
+	td.dosColor3 {background: #cdcd00;color: #fff;}
+	td.dosColor4 {background: #0000cd;color: #fff;}
+	td.dosColor5 {background: #cd00cd;color: #fff;}
+	td.dosColor6 {background: #00cdcd;color: #fff;}
+	td.dosColor7 {background: #c0c0c0;color: #000;}
+	td.dosColor8 {background: #7f7f7f;color: #fff;}
+	td.dosColor9 {background: #ff0000;color: #fff;}
+	td.dosColor10 {background: #00ff00;color: #000;}
+	td.dosColor11 {background: #ffff00;color: #000;}
+	td.dosColor12 {background: #5c5cff;color: #fff;}
+	td.dosColor13 {background: #ff00ff;color: #fff;}
+	td.dosColor14 {background: #00ffff;color: #000;}
+	td.dosColor15 {background: #fff;color: #000;}
+
+/* ################### VS Code colors ################## */
+
+	td.vscodeBackground {background: #1e1e1e;color: #fff;}
+	td.vscodeFont {background: #d4d4d4;color: #000;}
+	td.vscodeColor0 {background: #000000;color: #fff;}
+	td.vscodeColor1 {background: #a80000;color: #fff;}
+	td.vscodeColor2 {background: #16825d;color: #fff;}
+	td.vscodeColor3 {background: #a85400;color: #fff;}
+	td.vscodeColor4 {background: #007acc;color: #fff;}
+	td.vscodeColor5 {background: #68217a;color: #fff;}
+	td.vscodeColor6 {background: #00a8a8;color: #fff;}
+	td.vscodeColor7 {background: #cccccc;color: #000;}
+	td.vscodeColor8 {background: #545454;color: #fff;}
+	td.vscodeColor9 {background: #da6771;color: #fff;}
+	td.vscodeColor10 {background: #54fc54;color: #000;}
+	td.vscodeColor11 {background: #fff099;color: #000;}
+	td.vscodeColor12 {background: #5454fc;color: #fff;}
+	td.vscodeColor13 {background: #fc54fc;color: #fff;}
+	td.vscodeColor14 {background: #54fcfc;color: #000;}
+	td.vscodeColor15 {background: #fcfcfc;color: #000;}
+
+/* ################### Powershell colors ################## */
+
+	td.powershellBackground {background: rgb(01,36,86);color: #fff;}
+	td.powershellFont {background: #cccccc;color: #000;}
+	td.powershellColor0 {background: #0c0c0c;color: #fff;}
+	td.powershellColor1 {background: #c50f1f;color: #fff;}
+	td.powershellColor2 {background: #13a10e;color: #fff;}
+	td.powershellColor3 {background: #c19c00;color: #fff;}
+	td.powershellColor4 {background: #0037da;color: #fff;}
+	td.powershellColor5 {background: #881798;color: #fff;}
+	td.powershellColor6 {background: #3a96dd;color: #fff;}
+	td.powershellColor7 {background: #cccccc;color: #000;}
+	td.powershellColor8 {background: #767676;color: #fff;}
+	td.powershellColor9 {background: #e74856;color: #fff;}
+	td.powershellColor10 {background: #16c60c;color: #000;}
+	td.powershellColor11 {background: #f9f1a5;color: #000;}
+	td.powershellColor12 {background: #3b78ff;color: #fff;}
+	td.powershellColor13 {background: #b4009e;color: #fff;}
+	td.powershellColor14 {background: #61d6d6;color: #000;}
+	td.powershellColor15 {background: #f2f2f2;color: #000;}
+
+
+/* ################### Windows Terminal (Campbell) colors ################## */
+
+	td.winterminalBackground {background: #0c0c0c;color: #fff;}
+	td.winterminalFont {background: #cccccc;color: #000;}
+	td.winterminalColor0 {background: #0c0c0c;color: #fff;}
+	td.winterminalColor1 {background: #c50f1f;color: #fff;}
+	td.winterminalColor2 {background: #13a10e;color: #fff;}
+	td.winterminalColor3 {background: #c19c00;color: #fff;}
+	td.winterminalColor4 {background: #0037da;color: #fff;}
+	td.winterminalColor5 {background: #881798;color: #fff;}
+	td.winterminalColor6 {background: #3a96dd;color: #fff;}
+	td.winterminalColor7 {background: #cccccc;color: #000;}
+	td.winterminalColor8 {background: #767676;color: #fff;}
+	td.winterminalColor9 {background: #e74856;color: #fff;}
+	td.winterminalColor10 {background: #16c60c;color: #000;}
+	td.winterminalColor11 {background: #f9f1a5;color: #000;}
+	td.winterminalColor12 {background: #3b78ff;color: #fff;}
+	td.winterminalColor13 {background: #b4009e;color: #fff;}
+	td.winterminalColor14 {background: #61d6d6;color: #000;}
+	td.winterminalColor15 {background: #f2f2f2;color: #000;}
+
+/* ################### custom colors ################## */
+
+	td.customBackground {background: #000000;color: #fff;}
+	td.customFont {background: #a8a8a8;color: #000;}
+	td.customColor0 {background: #000000;color: #fff;}
+	td.customColor1 {background: #a80000;color: #fff;}
+	td.customColor2 {background: #00a800;color: #fff;}
+	td.customColor3 {background: #a85400;color: #fff;}
+	td.customColor4 {background: #0000a8;color: #fff;}
+	td.customColor5 {background: #a800a8;color: #fff;}
+	td.customColor6 {background: #00a8a8;color: #fff;}
+	td.customColor7 {background: #a8a8a8;color: #000;}
+	td.customColor8 {background: #545454;color: #fff;}
+	td.customColor9 {background: #fc5454;color: #fff;}
+	td.customColor10 {background: #54fc54;color: #000;}
+	td.customColor11 {background: #fcfc54;color: #000;}
+	td.customColor12 {background: #5454fc;color: #fff;}
+	td.customColor13 {background: #fc54fc;color: #fff;}
+	td.customColor14 {background: #54fcfc;color: #000;}
+	td.customColor15 {background: #fcfcfc;color: #000;}
