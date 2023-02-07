@@ -29,21 +29,21 @@ xterm*vt100.faceNameDoublesize: AR PL UMing HK
 xterm*vt100.background: rgb:1e/1e/1e
 xterm*vt100.foreground: rgb:d4/d4/d4
 xterm*vt100.color0: rgb:00/00/00
-xterm*vt100.color1: rgb:a8/00/00
+xterm*vt100.color1: rgb:c5/0f/1f
 xterm*vt100.color2: rgb:16/82/5d
 xterm*vt100.color3: rgb:a8/54/00
 xterm*vt100.color4: rgb:00/7a/cc
 xterm*vt100.color5: rgb:68/21/7a
-xterm*vt100.color6: rgb:00/a8/a8
+xterm*vt100.color6: rgb:00/cd/cd
 xterm*vt100.color7: rgb:cc/cc/cc
-xterm*vt100.color8: rgb:54/54/54
+xterm*vt100.color8: rgb:76/76/76
 xterm*vt100.color9: rgb:da/67/71
-xterm*vt100.color10: rgb:54/fc/54
+xterm*vt100.color10: rgb:16/c6/0c
 xterm*vt100.color11: rgb:ff/f0/99
-xterm*vt100.color12: rgb:54/54/fc
-xterm*vt100.color13: rgb:fc/54/fc
-xterm*vt100.color14: rgb:54/fc/fc
-xterm*vt100.color15: rgb:fc/fc/fc
+xterm*vt100.color12: rgb:1e/a2/fa
+xterm*vt100.color13: rgb:b4/00/9e
+xterm*vt100.color14: rgb:00/ff/ff
+xterm*vt100.color15: rgb:ff/ff/ff
 
 ! Enable Right-side scrollbar:
 xterm*vt100.ScrollBar: true
