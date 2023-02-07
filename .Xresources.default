@@ -1,4 +1,4 @@
-! Default XTerm configuration without TrueType font and custom configs.
+! Default XTerm configuration without TrueType font and custom colors.
 
 xterm.termName: xterm-256color
 
