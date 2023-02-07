@@ -84,7 +84,7 @@ xterm.ttyModes: erase ^?
 ! Every shell is a login shell by default (for inclusion of all necessary environment variables):
 xterm*vt100.loginshell: true
 
-##############################################################
+! ##############################################################
 
 ! "xrdb -merge ~/.Xresources" --> apply changes
 ! "xrdb -query > current_X_resources" --> reset
