@@ -86,6 +86,6 @@ xterm*vt100.loginshell: true
 
 ##############################################################
 
-! "xrdb -merge ~/.Xresources.phosphor" --> apply changes
+! "xrdb -merge ~/.Xresources" --> apply changes
 ! "xrdb -query > current_X_resources" --> reset
-! "xrdb -load ~/.Xresources.phosphor" --> load current settings
+! "xrdb -load ~/.Xresources" --> load current settings
