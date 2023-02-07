@@ -40,7 +40,7 @@ xterm*vt100.color8: rgb:7f/7f/7f
 xterm*vt100.color9: rgb:ff/00/00
 xterm*vt100.color10: rgb:00/ff/00
 xterm*vt100.color11: rgb:ff/ff/00
-xterm*vt100.color12: rgb:5c/5c/ff
+xterm*vt100.color12: rgb:00/00/ff
 xterm*vt100.color13: rgb:ff/00/ff
 xterm*vt100.color14: rgb:00/ff/ff
 xterm*vt100.color15: rgb:ff/ff/ff
