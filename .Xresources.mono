@@ -1,4 +1,4 @@
-! Default XTerm configuration without TrueType font and custom colors (Black on White).
+! XTerm monochrome (Black on White).
 
 ! ensure using UTF-8
 ! xterm.vt100.locale: true
