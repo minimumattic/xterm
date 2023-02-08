@@ -26,9 +26,9 @@
 
 /* ################### Default (Black) colors ################## */
 
-	td.defaultBBackground {background: #000;color: #fff;}
-	td.defaultBFont {background: #fff;color: #000;}
-	td.defaultBColor0 {background: #000;color: #fff;}
+	td.defaultBBackground {background: #000000;color: #fff;}
+	td.defaultBFont {background: #ffffff;color: #000;}
+	td.defaultBColor0 {background: #000000;color: #fff;}
 	td.defaultBColor1 {background: #cd0000;color: #fff;}
 	td.defaultBColor2 {background: #00cd00;color: #fff;}
 	td.defaultBColor3 {background: #cdcd00;color: #fff;}
@@ -43,28 +43,28 @@
 	td.defaultBColor12 {background: #0000ff;color: #fff;}
 	td.defaultBColor13 {background: #ff00ff;color: #fff;}
 	td.defaultBColor14 {background: #00ffff;color: #000;}
-	td.defaultBColor15 {background: #fff;color: #000;}
+	td.defaultBColor15 {background: #ffffff;color: #000;}
 
 /* ################### Default (White) colors ################## */
 
-	td.defaultWBackground {background: #fff;color: #000;}
-	td.defaultWFont {background: #000;color: #fff;}
-	td.defaultWColor0 {background: #000;color: #fff;}
-	td.defaultWColor1 {background: #cd0000;color: #fff;}
-	td.defaultWColor2 {background: #00cd00;color: #fff;}
-	td.defaultWColor3 {background: #cdcd00;color: #fff;}
-	td.defaultWColor4 {background: #0000cd;color: #fff;}
-	td.defaultWColor5 {background: #cd00cd;color: #fff;}
-	td.defaultWColor6 {background: #00cdcd;color: #fff;}
-	td.defaultWColor7 {background: #e5e5e5;color: #000;}
-	td.defaultWColor8 {background: #7f7f7f;color: #fff;}
-	td.defaultWColor9 {background: #ff0000;color: #fff;}
-	td.defaultWColor10 {background: #00ff00;color: #000;}
-	td.defaultWColor11 {background: #ffff00;color: #000;}
-	td.defaultWColor12 {background: #0000ff;color: #fff;}
-	td.defaultWColor13 {background: #ff00ff;color: #fff;}
-	td.defaultWColor14 {background: #00ffff;color: #000;}
-	td.defaultWColor15 {background: #fff;color: #000;}
+	td.defaultWBackground {background: #ffffff;color: #000;}
+	td.defaultWFont {background: #000000;color: #fff;}
+	td.defaultWColor0 {background: #7f7f7f;color: #fff;}
+	td.defaultWColor1 {background: #ff0000;color: #fff;}
+	td.defaultWColor2 {background: #00ff00;color: #fff;}
+	td.defaultWColor3 {background: #ffff00;color: #fff;}
+	td.defaultWColor4 {background: #0000ff;color: #fff;}
+	td.defaultWColor5 {background: #ff00ff;color: #fff;}
+	td.defaultWColor6 {background: #00ffff;color: #fff;}
+	td.defaultWColor7 {background: #ffffff;color: #000;}
+	td.defaultWColor8 {background: #000000;color: #fff;}
+	td.defaultWColor9 {background: #cd0000;color: #fff;}
+	td.defaultWColor10 {background: #00cd00;color: #000;}
+	td.defaultWColor11 {background: #cdcd00;color: #000;}
+	td.defaultWColor12 {background: #0000cd;color: #fff;}
+	td.defaultWColor13 {background: #cd00cd;color: #fff;}
+	td.defaultWColor14 {background: #00cdcd;color: #000;}
+	td.defaultWColor15 {background: #e5e5e5;color: #000;}
 
 /* ################### Ubuntu colors ################## */
 
@@ -89,9 +89,9 @@
 
 /* ################### DOS colors ################## */
 
-	td.dosBackground {background: #000;color: #fff;}
-	td.dosFont {background: #aaa;color: #000;}
-	td.dosColor0 {background: #000;color: #fff;}
+	td.dosBackground {background: #000000;color: #fff;}
+	td.dosFont {background: #aaaaaa;color: #000;}
+	td.dosColor0 {background: #000000;color: #fff;}
 	td.dosColor1 {background: #cd0000;color: #fff;}
 	td.dosColor2 {background: #00cd00;color: #fff;}
 	td.dosColor3 {background: #cdcd00;color: #fff;}
@@ -106,7 +106,7 @@
 	td.dosColor12 {background: #0000ff;color: #fff;}
 	td.dosColor13 {background: #ff00ff;color: #fff;}
 	td.dosColor14 {background: #00ffff;color: #000;}
-	td.dosColor15 {background: #fff;color: #000;}
+	td.dosColor15 {background: #ffffff;color: #000;}
 
 /* ################### VS Code colors ################## */
 
