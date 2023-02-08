@@ -24,24 +24,24 @@ xterm*vt100.initialFont: 3
 xterm*vt100.faceNameDoublesize: AR PL UMing HK
 
 ! Colors:
-xterm*vt100.background: rgb:ff/ff/ff
-xterm*vt100.foreground: rgb:00/00/00
-xterm*vt100.color0: rgb:7f/7f/7f
-xterm*vt100.color1: rgb:ff/00/00
-xterm*vt100.color2: rgb:00/ff/00
-xterm*vt100.color3: rgb:ff/ff/00
-xterm*vt100.color4: rgb:00/00/ff
-xterm*vt100.color5: rgb:ff/00/ff
-xterm*vt100.color6: rgb:00/ff/ff
-xterm*vt100.color7: rgb:ff/ff/ff
-xterm*vt100.color8: rgb:00/00/00
-xterm*vt100.color9: rgb:cd/00/00
-xterm*vt100.color10: rgb:00/cd/00
-xterm*vt100.color11: rgb:cd/cd/00
-xterm*vt100.color12: rgb:00/00/cd
-xterm*vt100.color13: rgb:cd/00/cd
-xterm*vt100.color14: rgb:00/cd/cd
-xterm*vt100.color15: rgb:e5/e5/e5
+xterm*vt100.background: rgb:ffffff
+xterm*vt100.foreground: rgb:000000
+xterm*vt100.color0: rgb:111111
+xterm*vt100.color1: rgb:444444
+xterm*vt100.color2: rgb:666666
+xterm*vt100.color3: rgb:777777
+xterm*vt100.color4: rgb:333333
+xterm*vt100.color5: rgb:888888
+xterm*vt100.color6: rgb:999999
+xterm*vt100.color7: rgb:bbbbbb
+xterm*vt100.color8: rgb:888888
+xterm*vt100.color9: rgb:888888
+xterm*vt100.color10: rgb:aaaaaa
+xterm*vt100.color11: rgb:bbbbbb
+xterm*vt100.color12: rgb:777777
+xterm*vt100.color13: rgb:cccccc
+xterm*vt100.color14: rgb:dddddd
+xterm*vt100.color15: rgb:eeeeee
 
 ! Enable Right-side scrollbar:
 xterm*vt100.ScrollBar: true
