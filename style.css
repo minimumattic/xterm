@@ -112,22 +112,22 @@
 
 	td.powershellBackground {background: rgb(01,36,86);color: #fff;}
 	td.powershellFont {background: #cccccc;color: #000;}
-	td.powershellColor0 {background: #0c0c0c;color: #fff;}
-	td.powershellColor1 {background: #c50f1f;color: #fff;}
-	td.powershellColor2 {background: #13a10e;color: #fff;}
-	td.powershellColor3 {background: #c19c00;color: #fff;}
-	td.powershellColor4 {background: #0037da;color: #fff;}
-	td.powershellColor5 {background: #881798;color: #fff;}
-	td.powershellColor6 {background: #3a96dd;color: #fff;}
-	td.powershellColor7 {background: #cccccc;color: #000;}
-	td.powershellColor8 {background: #767676;color: #fff;}
-	td.powershellColor9 {background: #e74856;color: #fff;}
-	td.powershellColor10 {background: #16c60c;color: #000;}
-	td.powershellColor11 {background: #f9f1a5;color: #000;}
-	td.powershellColor12 {background: #3b78ff;color: #fff;}
-	td.powershellColor13 {background: #b4009e;color: #fff;}
-	td.powershellColor14 {background: #61d6d6;color: #000;}
-	td.powershellColor15 {background: #f2f2f2;color: #000;}
+	td.powershellColor0 {background: #000000;color: #fff;}
+	td.powershellColor1 {background: #800000;color: #fff;}
+	td.powershellColor2 {background: #008000;color: #fff;}
+	td.powershellColor3 {background: #808000;color: #fff;}
+	td.powershellColor4 {background: #000080;color: #fff;}
+	td.powershellColor5 {background: #800080;color: #fff;}
+	td.powershellColor6 {background: #008080;color: #fff;}
+	td.powershellColor7 {background: #c0c0c0;color: #000;}
+	td.powershellColor8 {background: #808080;color: #fff;}
+	td.powershellColor9 {background: #ff0000;color: #fff;}
+	td.powershellColor10 {background: #00ff00;color: #000;}
+	td.powershellColor11 {background: #ffff00;color: #000;}
+	td.powershellColor12 {background: #0000ff;color: #fff;}
+	td.powershellColor13 {background: #ff00ff;color: #fff;}
+	td.powershellColor14 {background: #00ffff;color: #000;}
+	td.powershellColor15 {background: #ffffff;color: #000;}
 
 
 /* ################### Windows Terminal (Campbell) colors ################## */
