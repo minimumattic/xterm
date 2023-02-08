@@ -33,7 +33,7 @@ xterm*vt100.color1: rgb:c5/0f/1f
 xterm*vt100.color2: rgb:16/82/5d
 xterm*vt100.color3: rgb:e3/79/33
 xterm*vt100.color4: rgb:04/39/5e
-xterm*vt100.color5: rgb:34/10/3d
+xterm*vt100.color5: rgb:68/21/7a
 xterm*vt100.color6: rgb:56/9c/d6
 xterm*vt100.color7: rgb:d4/d4/d4
 xterm*vt100.color8: rgb:85/85/85
@@ -41,7 +41,7 @@ xterm*vt100.color9: rgb:da/67/71
 xterm*vt100.color10: rgb:6a/99/53
 xterm*vt100.color11: rgb:ff/d7/00
 xterm*vt100.color12: rgb:00/7a/cc
-xterm*vt100.color13: rgb:68/21/7a
+xterm*vt100.color13: rgb:d4/70/d6
 xterm*vt100.color14: rgb:77/b5/e9
 xterm*vt100.color15: rgb:ff/ff/ff
 
