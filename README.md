@@ -8,4 +8,6 @@ for Ubuntu config "Ubuntu fonts" can be downloaded from > https://design.ubuntu.
 
 Windows Powershell default font: Consolas
 
+Windows Terminal default font: Cascadia Code
+
 VSCode default font: Droid Sans Mono
