@@ -20,7 +20,7 @@ xterm*vt100.renderFont: true
 
 ! Default font and size:
 xterm*vt100.faceName: Cascadia Code
-xterm*vt100.faceSize: 14
+xterm*vt100.faceSize: 13
 
 ! Chinese fonts:
 xterm*vt100.faceNameDoublesize: AR PL UMing HK
