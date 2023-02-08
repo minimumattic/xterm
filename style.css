@@ -24,47 +24,47 @@
 		text-align: center;
 		}
 
-/* ################### Default (Black) colors ################## */
+/* ################### Default (White on Black) colors ################## */
 
-	td.defaultBBackground {background: #000000;color: #fff;}
-	td.defaultBFont {background: #ffffff;color: #000;}
-	td.defaultBColor0 {background: #000000;color: #fff;}
-	td.defaultBColor1 {background: #cd0000;color: #fff;}
-	td.defaultBColor2 {background: #00cd00;color: #fff;}
-	td.defaultBColor3 {background: #cdcd00;color: #fff;}
-	td.defaultBColor4 {background: #0000cd;color: #fff;}
-	td.defaultBColor5 {background: #cd00cd;color: #fff;}
-	td.defaultBColor6 {background: #00cdcd;color: #fff;}
-	td.defaultBColor7 {background: #e5e5e5;color: #000;}
-	td.defaultBColor8 {background: #7f7f7f;color: #fff;}
-	td.defaultBColor9 {background: #ff0000;color: #fff;}
-	td.defaultBColor10 {background: #00ff00;color: #000;}
-	td.defaultBColor11 {background: #ffff00;color: #000;}
-	td.defaultBColor12 {background: #0000ff;color: #fff;}
-	td.defaultBColor13 {background: #ff00ff;color: #fff;}
-	td.defaultBColor14 {background: #00ffff;color: #000;}
-	td.defaultBColor15 {background: #ffffff;color: #000;}
+	td.defaultBackground {background: #000000;color: #fff;}
+	td.defaultFont {background: #ffffff;color: #000;}
+	td.defaultColor0 {background: #000000;color: #fff;}
+	td.defaultColor1 {background: #cd0000;color: #fff;}
+	td.defaultColor2 {background: #00cd00;color: #fff;}
+	td.defaultColor3 {background: #cdcd00;color: #fff;}
+	td.defaultColor4 {background: #0000cd;color: #fff;}
+	td.defaultColor5 {background: #cd00cd;color: #fff;}
+	td.defaultColor6 {background: #00cdcd;color: #fff;}
+	td.defaultColor7 {background: #e5e5e5;color: #000;}
+	td.defaultColor8 {background: #7f7f7f;color: #fff;}
+	td.defaultColor9 {background: #ff0000;color: #fff;}
+	td.defaultColor10 {background: #00ff00;color: #000;}
+	td.defaultColor11 {background: #ffff00;color: #000;}
+	td.defaultColor12 {background: #0000ff;color: #fff;}
+	td.defaultColor13 {background: #ff00ff;color: #fff;}
+	td.defaultColor14 {background: #00ffff;color: #000;}
+	td.defaultColor15 {background: #ffffff;color: #000;}
 
-/* ################### Default (White) colors ################## */
+/* ################### Monochrome colors ################## */
 
-	td.defaultWBackground {background: #ffffff;color: #000;}
-	td.defaultWFont {background: #000000;color: #fff;}
-	td.defaultWColor0 {background: #111111;color: #fff;}
-	td.defaultWColor1 {background: #444444;color: #fff;}
-	td.defaultWColor2 {background: #666666;color: #fff;}
-	td.defaultWColor3 {background: #777777;color: #fff;}
-	td.defaultWColor4 {background: #333333;color: #fff;}
-	td.defaultWColor5 {background: #888888;color: #fff;}
-	td.defaultWColor6 {background: #999999;color: #fff;}
-	td.defaultWColor7 {background: #bbbbbb;color: #000;}
-	td.defaultWColor8 {background: #888888;color: #fff;}
-	td.defaultWColor9 {background: #888888;color: #fff;}
-	td.defaultWColor10 {background: #aaaaaa;color: #000;}
-	td.defaultWColor11 {background: #bbbbbb;color: #000;}
-	td.defaultWColor12 {background: #777777;color: #fff;}
-	td.defaultWColor13 {background: #cccccc;color: #000;}
-	td.defaultWColor14 {background: #dddddd;color: #000;}
-	td.defaultWColor15 {background: #eeeeee;color: #000;}
+	td.monoBackground {background: #ffffff;color: #000;}
+	td.monoFont {background: #000000;color: #fff;}
+	td.monoColor0 {background: #111111;color: #fff;}
+	td.monoColor1 {background: #444444;color: #fff;}
+	td.monoColor2 {background: #666666;color: #fff;}
+	td.monoColor3 {background: #777777;color: #fff;}
+	td.monoColor4 {background: #333333;color: #fff;}
+	td.monoColor5 {background: #888888;color: #fff;}
+	td.monoColor6 {background: #999999;color: #fff;}
+	td.monoColor7 {background: #bbbbbb;color: #000;}
+	td.monoColor8 {background: #888888;color: #fff;}
+	td.monoColor9 {background: #888888;color: #fff;}
+	td.monoColor10 {background: #aaaaaa;color: #000;}
+	td.monoColor11 {background: #bbbbbb;color: #000;}
+	td.monoColor12 {background: #777777;color: #fff;}
+	td.monoColor13 {background: #cccccc;color: #000;}
+	td.monoColor14 {background: #dddddd;color: #000;}
+	td.monoColor15 {background: #eeeeee;color: #000;}
 
 /* ################### Ubuntu colors ################## */
 
