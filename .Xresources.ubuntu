@@ -31,7 +31,7 @@ xterm*vt100.foreground: rgb:ff/ff/ff
 xterm*vt100.color0: rgb:00/00/00
 xterm*vt100.color1: rgb:bb/00/00
 xterm*vt100.color2: rgb:00/bb/00
-xterm*vt100.color3: rgb:bb/bb/00
+xterm*vt100.color3: rgb:e9/54/20
 xterm*vt100.color4: rgb:00/00/b9
 xterm*vt100.color5: rgb:bb/00/bb
 xterm*vt100.color6: rgb:00/bb/bb
