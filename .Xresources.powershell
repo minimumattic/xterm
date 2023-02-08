@@ -27,7 +27,7 @@ xterm*vt100.faceNameDoublesize: AR PL UMing HK
 
 ! Colors:
 xterm*vt100.background: rgb:01/36/86
-xterm*vt100.foreground: rgb:cc/cc/cc
+xterm*vt100.foreground: rgb:ee/ed/f0
 xterm*vt100.color0: rgb:00/00/00
 xterm*vt100.color1: rgb:80/00/00
 xterm*vt100.color2: rgb:00/80/00

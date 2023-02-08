@@ -111,7 +111,7 @@
 /* ################### Powershell colors ################## */
 
 	td.powershellBackground {background: rgb(01,36,86);color: #fff;}
-	td.powershellFont {background: #cccccc;color: #000;}
+	td.powershellFont {background: #eeedf0;color: #000;}
 	td.powershellColor0 {background: #000000;color: #fff;}
 	td.powershellColor1 {background: #800000;color: #fff;}
 	td.powershellColor2 {background: #008000;color: #fff;}
