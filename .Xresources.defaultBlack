@@ -25,9 +25,6 @@ xterm*vt100.initialFont: 3
 ! Chinese fonts:
 xterm*vt100.faceNameDoublesize: AR PL UMing HK
 
-xterm*vt100.background: black
-xterm*vt100.foreground: white
-
 ! Enable Right-side scrollbar:
 xterm*vt100.ScrollBar: true
 xterm*vt100.rightScrollBar: true
