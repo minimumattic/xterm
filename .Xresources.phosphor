@@ -1,6 +1,4 @@
 ! XTerm Vintage monochrome configuration with various CRT phosphor colors. 
- 
-xterm.termName: xterm-256color
 
 ! ensure using UTF-8
 ! xterm.vt100.locale: true
