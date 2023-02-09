@@ -47,24 +47,24 @@
 
 /* ################### Monochrome colors ################## */
 
-	td.monoBackground {background: #ffffff;color: #000;}
-	td.monoFont {background: #000000;color: #fff;}
-	td.monoColor0 {background: #111111;color: #fff;}
-	td.monoColor1 {background: #444444;color: #fff;}
-	td.monoColor2 {background: #666666;color: #fff;}
-	td.monoColor3 {background: #777777;color: #fff;}
-	td.monoColor4 {background: #333333;color: #fff;}
-	td.monoColor5 {background: #888888;color: #fff;}
-	td.monoColor6 {background: #999999;color: #fff;}
-	td.monoColor7 {background: #bbbbbb;color: #000;}
-	td.monoColor8 {background: #888888;color: #fff;}
-	td.monoColor9 {background: #888888;color: #fff;}
-	td.monoColor10 {background: #aaaaaa;color: #000;}
-	td.monoColor11 {background: #bbbbbb;color: #000;}
-	td.monoColor12 {background: #777777;color: #fff;}
-	td.monoColor13 {background: #cccccc;color: #000;}
-	td.monoColor14 {background: #dddddd;color: #000;}
-	td.monoColor15 {background: #eeeeee;color: #000;}
+	td.monoBackground {background: #000000;color: #fff;}
+	td.monoFont {background: #ffffff;color: #000;}
+	td.monoColor0 {background: #000000;color: #fff;}
+	td.monoColor1 {background: #676767;color: #fff;}
+	td.monoColor2 {background: #b1b1b1;color: #000;}
+	td.monoColor3 {background: #e74856;color: #fff;}
+	td.monoColor4 {background: #363636;color: #fff;}
+	td.monoColor5 {background: #737373;color: #fff;}
+	td.monoColor6 {background: #e4e4e4;color: #000;}
+	td.monoColor7 {background: #d8d8d8;color: #000;}
+	td.monoColor8 {background: #7f7f7f;color: #fff;}
+	td.monoColor9 {background: #828282;color: #fff;}
+	td.monoColor10 {background: #dcdcdc;color: #000;}
+	td.monoColor11 {background: #c50f1f;color: #fff;}
+	td.monoColor12 {background: #464646;color: #fff;}
+	td.monoColor13 {background: #e74856;color: #fff;}
+	td.monoColor14 {background: #b7b7b7;color: #000;}
+	td.monoColor15 {background: #f7f7f7;color: #000;}
 
 /* ################### Ubuntu colors ################## */
 
