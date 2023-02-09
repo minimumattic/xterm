@@ -2,6 +2,8 @@
 
 my custom XTerm configuration
 
+copy .Xresources file you want to use in your home/$user directory (name should be ".Xresources" so delete any naming after ".Xresources.xxxx") and run "xrdb -merge ~/.Xresources" to merge.
+
 DOS font "Perfect DOS VGA 437" can be downloaded from > https://laemeur.sdf.org/fonts/
 
 Ubuntu fonts can be downloaded from > https://design.ubuntu.com/font
