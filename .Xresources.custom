@@ -60,9 +60,9 @@ xterm*vt100.scrollTtyOutput: false
 xterm*vt100.cursorBlink: true
 
 ! Cursor and Pointer style:
-xterm*vt100.cursorColor:              LightBlue
-xterm*vt100.pointerShape:             arrow
-xterm*vt100.pointerColor:             blue
+xterm*vt100.cursorColor: LightBlue
+xterm*vt100.pointerShape: arrow
+xterm*vt100.pointerColor: blue
 
 ! Enable clipboard:
 xterm*vt100.selectToClipboard: true
