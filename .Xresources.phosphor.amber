@@ -100,6 +100,6 @@ xterm*vt100.loginshell: true
 
 ! ##############################################################
 
-! "xrdb -query > current_X_resources" --> reset
-! "xrdb -load ~/.Xresources" --> load current settings
-! "xrdb -merge ~/.Xresources" --> apply changes
+! "xrdb -query > current_X_resources" --> view current X resources
+! "xrdb -load ~/.Xresources" --> load and replace old entries
+! "xrdb -merge ~/.Xresources" --> merges with any existing X resources

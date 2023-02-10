@@ -59,6 +59,11 @@ xterm*vt100.scrollTtyOutput: false
 ! Cursor blink enable:
 xterm*vt100.cursorBlink: true
 
+! Cursor and Pointer style:
+xterm*vt100.cursorColor:              LightBlue
+xterm*vt100.pointerShape:             arrow
+xterm*vt100.pointerColor:             blue
+
 ! Enable clipboard:
 xterm*vt100.selectToClipboard: true
 
@@ -92,6 +97,6 @@ xterm*vt100.loginshell: true
 
 ! ##############################################################
 
-! "xrdb -query > current_X_resources" --> reset
-! "xrdb -load ~/.Xresources" --> load current settings
-! "xrdb -merge ~/.Xresources" --> apply changes
+! "xrdb -query > current_X_resources" --> view current X resources
+! "xrdb -load ~/.Xresources" --> load and replace old entries
+! "xrdb -merge ~/.Xresources" --> merges with any existing X resources
