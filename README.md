@@ -52,6 +52,11 @@ Windows Powershell:
 ![powershell](https://user-images.githubusercontent.com/72235930/217952104-d529aef6-555f-4d72-8230-5b0e2caf3215.png)
 
 
+Custom:
+
+![custom](https://user-images.githubusercontent.com/72235930/217980458-cf9386d0-d9a3-4d72-88cb-ecaf6f153e07.png)
+
+
 Monochrome (black on white):
 
 ![mono](https://user-images.githubusercontent.com/72235930/217970133-430364a5-166e-40d3-9dc3-be28d0eee4c8.png)
