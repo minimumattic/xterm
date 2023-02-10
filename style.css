@@ -45,27 +45,6 @@
 	td.defaultColor14 {background: #00ffff;color: #000;}
 	td.defaultColor15 {background: #ffffff;color: #000;}
 
-/* ################### Monochrome colors ################## */
-
-	td.monoBackground {background: #000000;color: #fff;}
-	td.monoFont {background: #ffffff;color: #000;}
-	td.monoColor0 {background: #000000;color: #fff;}
-	td.monoColor1 {background: #676767;color: #fff;}
-	td.monoColor2 {background: #b1b1b1;color: #000;}
-	td.monoColor3 {background: #e74856;color: #fff;}
-	td.monoColor4 {background: #363636;color: #fff;}
-	td.monoColor5 {background: #737373;color: #fff;}
-	td.monoColor6 {background: #9f9f9f;color: #000;}
-	td.monoColor7 {background: #d8d8d8;color: #000;}
-	td.monoColor8 {background: #7f7f7f;color: #fff;}
-	td.monoColor9 {background: #828282;color: #fff;}
-	td.monoColor10 {background: #dcdcdc;color: #000;}
-	td.monoColor11 {background: #c50f1f;color: #fff;}
-	td.monoColor12 {background: #464646;color: #fff;}
-	td.monoColor13 {background: #e74856;color: #fff;}
-	td.monoColor14 {background: #6d6d6d;color: #000;}
-	td.monoColor15 {background: #f7f7f7;color: #000;}
-
 /* ################### Ubuntu colors ################## */
 
 	td.ubuntuBackground {background: rgb(48,10,36);color: #fff;}
@@ -192,3 +171,66 @@
 	td.customColor13 {background: #fc54fc;color: #fff;}
 	td.customColor14 {background: #54fcfc;color: #000;}
 	td.customColor15 {background: #fcfcfc;color: #000;}
+
+/* ################### Monochrome colors ################## */
+
+	td.monoBackground {background: #000000;color: #fff;}
+	td.monoFont {background: #ffffff;color: #000;}
+	td.monoColor0 {background: #000000;color: #fff;}
+	td.monoColor1 {background: #676767;color: #fff;}
+	td.monoColor2 {background: #b1b1b1;color: #000;}
+	td.monoColor3 {background: #c0c0c0;color: #fff;}
+	td.monoColor4 {background: #363636;color: #fff;}
+	td.monoColor5 {background: #737373;color: #fff;}
+	td.monoColor6 {background: #9f9f9f;color: #000;}
+	td.monoColor7 {background: #d8d8d8;color: #000;}
+	td.monoColor8 {background: #7f7f7f;color: #fff;}
+	td.monoColor9 {background: #828282;color: #fff;}
+	td.monoColor10 {background: #d0d0d0;color: #000;}
+	td.monoColor11 {background: #dcdcdc;color: #fff;}
+	td.monoColor12 {background: #464646;color: #fff;}
+	td.monoColor13 {background: #8e8e8e;color: #fff;}
+	td.monoColor14 {background: #6d6d6d;color: #000;}
+	td.monoColor15 {background: #f7f7f7;color: #000;}
+
+/* ################### Green Phosphor ################## */
+
+	td.greenBackground {background: #282828;color: #fff;}
+	td.greenFont {background: #00ff66;color: #000;}
+	td.greenColor0 {background: #282828;color: #fff;}
+	td.greenColor1 {background: #007f33;color: #fff;}
+	td.greenColor2 {background: #00cc51;color: #000;}
+	td.greenColor3 {background: #cd0000;color: #fff;}
+	td.greenColor4 {background: #006628;color: #fff;}
+	td.greenColor5 {background: #007f33;color: #fff;}
+	td.greenColor6 {background: #00b247;color: #000;}
+	td.greenColor7 {background: #00cc51;color: #000;}
+	td.greenColor8 {background: #007f33;color: #fff;}
+	td.greenColor9 {background: #00993d;color: #fff;}
+	td.greenColor10 {background: #00e55b;color: #000;}
+	td.greenColor11 {background: #ff0000;color: #fff;}
+	td.greenColor12 {background: #007f33;color: #fff;}
+	td.greenColor13 {background: #cd0000;color: #fff;}
+	td.greenColor14 {background: #00e55b;color: #000;}
+	td.greenColor15 {background: #00ff66;color: #000;}
+
+/* ################### Amber Phosphor ################## */
+
+	td.amberBackground {background: #282828;color: #fff;}
+	td.amberFont {background: #ffb000;color: #000;}
+	td.amberColor0 {background: #282828;color: #fff;}
+	td.amberColor1 {background: #7f5800;color: #fff;}
+	td.amberColor2 {background: #cc8c00;color: #000;}
+	td.amberColor3 {background: #00cdcd;color: #fff;}
+	td.amberColor4 {background: #664600;color: #fff;}
+	td.amberColor5 {background: #7f5800;color: #fff;}
+	td.amberColor6 {background: #b27b00;color: #000;}
+	td.amberColor7 {background: #cc8c00;color: #000;}
+	td.amberColor8 {background: #7f5800;color: #fff;}
+	td.amberColor9 {background: #996900;color: #fff;}
+	td.amberColor10 {background: #e59e00;color: #000;}
+	td.amberColor11 {background: #00ffff;color: #fff;}
+	td.amberColor12 {background: #7f5800;color: #fff;}
+	td.amberColor13 {background: #00cdcd;color: #fff;}
+	td.amberColor14 {background: #e59e00;color: #000;}
+	td.amberColor15 {background: #ffb000;color: #000;}
