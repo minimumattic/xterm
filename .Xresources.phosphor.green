@@ -1,4 +1,4 @@
-! XTerm Vintage monochrome configuration with various CRT phosphor colors. 
+! XTerm vintage green monochrome configuration with various CRT phosphor colors. 
 
 ! ensure using UTF-8
 ! xterm.vt100.locale: true
@@ -12,13 +12,6 @@ xterm*vt100.geometry: 80x30
 
 ! initial font size (ctrl+right click VT fonts menu > 0:default 1:unreadable 2:tiny 3:small 4:medium 5:large 6:huge 7:enormous):
 xterm*vt100.initialFont: 3
-
-! Enable/Disable TrueType fonts:
-! xterm*vt100.renderFont: true
-
-! Default font and size:
-! xterm*vt100.faceName: Perfect DOS VGA 437
-! xterm*vt100.faceSize: 13
 
 ! Chinese fonts:
 xterm*vt100.faceNameDoublesize: AR PL UMing HK
