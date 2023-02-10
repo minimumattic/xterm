@@ -14,16 +14,11 @@ Windows Terminal default font: Cascadia Code
 
 VSCode default font: Droid Sans Mono
 
-#Screenshots
+#Screenshots:
 
 default:
 
 ![default](https://user-images.githubusercontent.com/72235930/217951637-c75feb1b-5c29-40e4-a06e-b80644427159.png)
-
-
-Monochrome (black on white):
-
-![mono](https://user-images.githubusercontent.com/72235930/217951769-e2e38914-e554-47b7-b61a-416ea7086384.png)
 
 
 Ubuntu:
@@ -57,13 +52,18 @@ Windows Powershell:
 ![powershell](https://user-images.githubusercontent.com/72235930/217952104-d529aef6-555f-4d72-8230-5b0e2caf3215.png)
 
 
+Monochrome (black on white):
+
+![mono](https://user-images.githubusercontent.com/72235930/217970133-430364a5-166e-40d3-9dc3-be28d0eee4c8.png)
+
+
 Green Phosphor:
 
-![phosphor-green](https://user-images.githubusercontent.com/72235930/217952023-97122ed4-8c0f-479f-934d-e79b87b0c36e.png)
+![green](https://user-images.githubusercontent.com/72235930/217970185-765ef17c-f884-4437-b031-45ad3d73ad81.png)
 
 
 Amber Phosphor:
 
-![phosphor-amber](https://user-images.githubusercontent.com/72235930/217952057-b5054437-f683-4ed2-9c07-38e350758807.png)
+![amber](https://user-images.githubusercontent.com/72235930/217970216-c4fbc949-98bc-4c7d-8604-190c4214d26c.png)
 
 
