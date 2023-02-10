@@ -1,29 +1,29 @@
-! XTerm monochrome (Black on White).
+! # XTerm monochrome (Black on White).
 
-! ensure using UTF-8
+! # ensure using UTF-8
 ! xterm.vt100.locale: true
 
-! force UTF-8
+! # force UTF-8
 xterm.vt100.locate: false
 xterm.vt100.utf8: true
 
-! Set default xterm window size:
+! # Set default xterm window size:
 xterm*vt100.geometry: 80x30
 
-! initial font size (ctrl+right click VT fonts menu > 0:default 1:unreadable 2:tiny 3:small 4:medium 5:large 6:huge 7:enormous):
+! # initial font size (ctrl+right click VT fonts menu > 0:default 1:unreadable 2:tiny 3:small 4:medium 5:large 6:huge 7:enormous):
 xterm*vt100.initialFont: 3
 
-! Enable/Disable TrueType fonts:
+! # Enable/Disable TrueType fonts:
 xterm*vt100.renderFont: true
 
-! Default font and size:
+! # Default font and size:
 xterm*vt100.faceName: Consolas
 xterm*vt100.faceSize: 13
 
-! Chinese fonts:
+! # Chinese fonts:
 xterm*vt100.faceNameDoublesize: AR PL UMing HK
 
-! Colors:
+! # Colors:
 xterm*vt100.background: rgb:ff/ff/ff
 xterm*vt100.foreground: rgb:00/00/00
 xterm*vt100.color0: rgb:00/00/00
@@ -43,27 +43,26 @@ xterm*vt100.color13: rgb:8e/8e/8e
 xterm*vt100.color14: rgb:6d/6d/6d
 xterm*vt100.color15: rgb:f7/f7/f7
 
-! Enable Right-side scrollbar:
+! # Enable Right-side scrollbar:
 xterm*vt100.ScrollBar: true
 xterm*vt100.rightScrollBar: true
-! xterm.vt100.scrollbar.width: 8
 
-! Scrollbacks:
+! # Scrollbacks:
 xterm*vt100.savelines: 16384
 
-! Stop output to terminal from jumping down to bottom of scroll again:
+! # Stop output to terminal from jumping down to bottom of scroll again:
 xterm*vt100.scrollTtyOutput: false
 
-! Cursor blink enable:
+! # Cursor blink enable:
 xterm*vt100.cursorBlink: true
 
-! Enable clipboard:
+! # Enable clipboard:
 xterm*vt100.selectToClipboard: true
 
-! Double-click to select whole word and URLs:
+! # Double-click to select whole word and URLs:
 xterm*vt100.charClass: 33:48,36-47:48,58-59:48,61:48,63-64:48,95:48,126:48
 
-! Right Click for paste instead of middle button / Ctrl-C to copy, Ctrl-V to paste / Ctrl-M to maximize, Ctrl-R to restore terminal window
+! # Right Click for paste instead of middle button / Ctrl-C to copy, Ctrl-V to paste / Ctrl-M to maximize, Ctrl-R to restore terminal window
 xterm*vt100.translations: #override \n\
 	~Ctrl ~Meta <Btn3Down>: ignore() \n\
 	Meta <Btn3Down>: clear-saved-lines() \n\
@@ -74,22 +73,22 @@ xterm*vt100.translations: #override \n\
 	Ctrl <Key>M: maximize() \n\
 	Ctrl <Key>R: restore() \n\
 
-! Enable <Alt> key combination:
+! # Enable <Alt> key combination:
 xterm*vt100.metaSendsEscape: true
 
-! Make <Alt> work:
+! # Make <Alt> work:
 xterm*vt100.eightBitInput:   false
 xterm*vt100.eightBitOutput:  true
 
-! Fix backspace key
+! # Fix backspace key
 xterm.vt100.backarrowKey: false
 xterm.ttyModes: erase ^?
 
-! Every shell is a login shell by default (for inclusion of all necessary environment variables):
+! # Every shell is a login shell by default (for inclusion of all necessary environment variables):
 xterm*vt100.loginshell: true
 
 ! ##############################################################
 
-! "xrdb -query > current_X_resources" --> view current X resources
-! "xrdb -load ~/.Xresources" --> load and replace old entries
-! "xrdb -merge ~/.Xresources" --> merges with any existing X resources
+! # "xrdb -query > current_X_resources" --> view current X resources
+! # "xrdb -load ~/.Xresources" --> load and replace old entries
+! # "xrdb -merge ~/.Xresources" --> merges with any existing X resources
