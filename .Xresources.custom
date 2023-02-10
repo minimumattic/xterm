@@ -19,8 +19,8 @@ xterm*vt100.initialFont: 3
 ! xterm*vt100.renderFont: true
 
 ! Default font and size:
-! xterm*vt100.faceName: Consolas
-! xterm*vt100.faceSize: 13
+xterm*vt100.faceName: Monospace Regular
+xterm*vt100.faceSize: 13
 
 ! Chinese fonts:
 xterm*vt100.faceNameDoublesize: AR PL UMing HK
