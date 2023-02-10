@@ -99,15 +99,15 @@ xterm.ttyModes: erase ^?
 ! # Every shell is a login shell by default (for inclusion of all necessary environment variables):
 xterm*vt100.loginshell: true
 
+! # Enable underline texts:
+xterm*vt100.underLine: true
+
 ! # set space/border around terminal window frame
 xterm*vt100.internalBorder: 30
 
 ! # autowrap?
 xterm*vt100.autoWrap: true
 ! xterm*vt100.reverseWrap: true
-
-! # Enable underline texts:
-xterm*vt100.underLine: true
 
 ! # ##############################################################
 
