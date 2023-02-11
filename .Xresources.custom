@@ -47,7 +47,8 @@ xterm*vt100.color15: rgb:fc/fc/fc
 
 ! # Enable Right-side scrollbar:
 xterm*vt100.ScrollBar: true
-xterm*vt100.rightScrollBar: true
+xterm*vt100.rightScrollBar: false
+xterm*vt100.leftScrollBar: true
 xterm.vt100.scrollbar.width: 15
 
 ! # Scrollbacks:
@@ -99,11 +100,8 @@ xterm.ttyModes: erase ^?
 ! # Every shell is a login shell by default (for inclusion of all necessary environment variables):
 xterm*vt100.loginshell: true
 
-! # Enable underline texts:
-xterm*vt100.underLine: true
-
-! # set space/border around terminal window frame
-xterm*vt100.internalBorder: 30
+! # Specifies the number of pixels between the characters and the window border. The default is 2.
+xterm*vt100.internalBorder: 2
 
 ! # autowrap?
 xterm*vt100.autoWrap: true

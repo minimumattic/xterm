@@ -21,7 +21,9 @@ xterm*vt100.foreground: rgb:ff/ff/ff
 
 ! # Enable Right-side scrollbar:
 xterm*vt100.ScrollBar: true
-xterm*vt100.rightScrollBar: true
+xterm*vt100.rightScrollBar: false
+xterm*vt100.leftScrollBar: true
+xterm.vt100.scrollbar.width: 15
 
 ! # Scrollbacks:
 xterm*vt100.savelines: 16384
@@ -62,6 +64,9 @@ xterm.ttyModes: erase ^?
 
 ! # Every shell is a login shell by default (for inclusion of all necessary environment variables):
 xterm*vt100.loginshell: true
+
+! # Specifies the number of pixels between the characters and the window border. The default is 2.
+xterm*vt100.internalBorder: 2
 
 ! # ##############################################################
 
