@@ -47,8 +47,8 @@ xterm*vt100.color15: rgb:f2/f2/f2
 
 ! # Enable Right-side scrollbar:
 xterm*vt100.ScrollBar: true
-xterm*vt100.rightScrollBar: false
-xterm*vt100.leftScrollBar: true
+xterm*vt100.rightScrollBar: true
+xterm*vt100.leftScrollBar: false
 xterm.vt100.scrollbar.width: 15
 
 ! # Scrollbacks:
