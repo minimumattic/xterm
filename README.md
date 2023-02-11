@@ -62,6 +62,11 @@ Monochrome (black on white):
 ![mono](https://user-images.githubusercontent.com/72235930/217970133-430364a5-166e-40d3-9dc3-be28d0eee4c8.png)
 
 
+Blueprint:
+
+![Screenshot from 2023-02-11 15-01-47](https://user-images.githubusercontent.com/72235930/218257345-bacec9d7-e498-409b-9c59-0e4588669fd5.png)
+
+
 Green Phosphor:
 
 ![green](https://user-images.githubusercontent.com/72235930/217970185-765ef17c-f884-4437-b031-45ad3d73ad81.png)
