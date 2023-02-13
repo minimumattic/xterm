@@ -1,5 +1,11 @@
 ! # Default XTerm configuration without TrueType font and custom colors (White on Black).
 
+! # define xterm colors > "xterm-256color, xterm-16color, xterm-mono"
+xterm.termName: xterm-256color
+
+! # reverse colors > on: white on black, off: black on white
+xterm*vt100.reverseVideo: on
+
 ! # ensure using UTF-8
 ! xterm.vt100.locale: true
 
@@ -15,9 +21,6 @@ xterm*vt100.initialFont: 3
 
 ! # Chinese fonts:
 xterm*vt100.faceNameDoublesize: AR PL UMing HK
-
-! # reverse colors > on: white on black, off: black on white
-xterm*vt100.reverseVideo: on
 
 ! # Enable Right-side scrollbar:
 xterm*vt100.ScrollBar: true
