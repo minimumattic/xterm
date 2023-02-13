@@ -1,6 +1,6 @@
 ! # XTerm configuration with DOS style colors and fonts.
 
-! # define xterm colors > "xterm-256color, xterm-mono, xterm-16color"
+! # define xterm colors > "xterm-256color, xterm-16color, xterm-mono"
 xterm.termName: xterm-256color
 
 ! # ensure using UTF-8

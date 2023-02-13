@@ -1,6 +1,6 @@
 ! # XTerm vintage amber monochrome configuration with various CRT phosphor colors.
 
-! # define xterm colors > "xterm-256color, xterm-mono, xterm-16color"
+! # define xterm colors > "xterm-256color, xterm-16color, xterm-mono"
 xterm.termName: xterm-16color
 
 ! # ensure using UTF-8
