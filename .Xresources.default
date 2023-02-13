@@ -16,8 +16,8 @@ xterm*vt100.initialFont: 3
 ! # Chinese fonts:
 xterm*vt100.faceNameDoublesize: AR PL UMing HK
 
-xterm*vt100.background: rgb:00/00/00
-xterm*vt100.foreground: rgb:ff/ff/ff
+! # reverse colors > on: white on black, off: black on white
+xterm*vt100.reverseVideo: on
 
 ! # Enable Right-side scrollbar:
 xterm*vt100.ScrollBar: true
