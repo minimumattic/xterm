@@ -1,5 +1,6 @@
 ! # XTerm configuration with Windows Terminal style colors and fonts.
 
+! # define xterm colors > "xterm-256color, xterm-mono, xterm-16color"
 xterm.termName: xterm-256color
 
 ! # ensure using UTF-8
