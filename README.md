@@ -35,8 +35,6 @@ VS Code:
 
 ![vscode](https://user-images.githubusercontent.com/72235930/217951853-2300510c-a99b-4ff1-8dae-89d1e7cd946f.png)
 
-![vscode2](https://user-images.githubusercontent.com/72235930/217951874-beb9ba2c-dc17-4219-b12e-479c18111b6f.png)
-
 
 Windows Terminal:
 
