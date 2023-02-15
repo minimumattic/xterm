@@ -35,11 +35,7 @@ VS Code:
 
 ![vscode](https://user-images.githubusercontent.com/72235930/217951853-2300510c-a99b-4ff1-8dae-89d1e7cd946f.png)
 
-
 ![vscode2](https://user-images.githubusercontent.com/72235930/217951874-beb9ba2c-dc17-4219-b12e-479c18111b6f.png)
-
-
-![vscode3](https://user-images.githubusercontent.com/72235930/217951886-fd6f7524-1ce5-4f05-b94f-5d2a5723e7c1.png)
 
 
 Windows Terminal:
