@@ -51,9 +51,14 @@ Custom:
 ![custom](https://user-images.githubusercontent.com/72235930/217980458-cf9386d0-d9a3-4d72-88cb-ecaf6f153e07.png)
 
 
-Monochrome (black on white):
+Monochrome White (black on white):
 
 ![mono](https://user-images.githubusercontent.com/72235930/217970133-430364a5-166e-40d3-9dc3-be28d0eee4c8.png)
+
+
+Monochrome Black (white on black):
+
+![mono-black](https://user-images.githubusercontent.com/72235930/219065119-3aaf9066-6b5e-4ea5-8e96-6051096977a3.png)
 
 
 Blueprint:
