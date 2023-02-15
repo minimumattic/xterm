@@ -16,32 +16,32 @@ VSCode default font: Droid Sans Mono
 
 #Screenshots:
 
-default:
+default (256color):
 
 ![default](https://user-images.githubusercontent.com/72235930/217951637-c75feb1b-5c29-40e4-a06e-b80644427159.png)
 
 
-Ubuntu:
+Ubuntu (256color):
 
 ![ubuntu](https://user-images.githubusercontent.com/72235930/217951710-9476fb05-e288-40dd-a4d5-d70e018c8181.png)
 
 
-DOS:
+DOS (256color):
 
 ![dos](https://user-images.githubusercontent.com/72235930/217951676-ca805c77-6683-49bc-b570-df5bacfa3550.png)
 
 
-VS Code:
+VS Code (256color):
 
 ![vscode](https://user-images.githubusercontent.com/72235930/217951853-2300510c-a99b-4ff1-8dae-89d1e7cd946f.png)
 
 
-Windows Terminal:
+Windows Terminal (256color):
 
 ![winterminal](https://user-images.githubusercontent.com/72235930/217951932-8fbd8d17-cd42-4e4b-9dd2-661a0fc7f4f0.png)
 
 
-Windows Powershell:
+Windows Powershell (256color):
 
 ![powershell](https://user-images.githubusercontent.com/72235930/217952104-d529aef6-555f-4d72-8230-5b0e2caf3215.png)
 
@@ -51,29 +51,29 @@ Custom:
 ![custom](https://user-images.githubusercontent.com/72235930/217980458-cf9386d0-d9a3-4d72-88cb-ecaf6f153e07.png)
 
 
-Monochrome White (black on white):
+Monochrome White (black on white - 16color):
 
 ![mono](https://user-images.githubusercontent.com/72235930/217970133-430364a5-166e-40d3-9dc3-be28d0eee4c8.png)
 
 
-Monochrome Black (white on black):
+Monochrome Black (white on black - 16color):
 
 ![mono-black](https://user-images.githubusercontent.com/72235930/219065119-3aaf9066-6b5e-4ea5-8e96-6051096977a3.png)
 
 
-Blueprint:
+Blueprint (16color):
 
 ![Screenshot from 2023-02-11 15-01-47](https://user-images.githubusercontent.com/72235930/218257345-bacec9d7-e498-409b-9c59-0e4588669fd5.png)
 
 
-Green Phosphor:
+Green Phosphor (16color):
 
 ![green](https://user-images.githubusercontent.com/72235930/217970185-765ef17c-f884-4437-b031-45ad3d73ad81.png)
 
 ![Screenshot from 2023-02-10 14-52-22](https://user-images.githubusercontent.com/72235930/218086180-d5cd86b6-a797-4595-8912-9ada8dadf098.png)
 
 
-Amber Phosphor:
+Amber Phosphor (16color):
 
 ![amber](https://user-images.githubusercontent.com/72235930/217970216-c4fbc949-98bc-4c7d-8604-190c4214d26c.png)
 
