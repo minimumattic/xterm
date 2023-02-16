@@ -172,26 +172,68 @@
 	td.customColor14 {background: #54fcfc;color: #000;}
 	td.customColor15 {background: #fcfcfc;color: #000;}
 
-/* ################### Monochrome colors ################## */
+/* ################### Monochrome (black on white) ################## */
 
-	td.monoBackground {background: #000000;color: #fff;}
-	td.monoFont {background: #ffffff;color: #000;}
-	td.monoColor0 {background: #000000;color: #fff;}
-	td.monoColor1 {background: #676767;color: #fff;}
-	td.monoColor2 {background: #b1b1b1;color: #000;}
-	td.monoColor3 {background: #c0c0c0;color: #000;}
-	td.monoColor4 {background: #363636;color: #fff;}
-	td.monoColor5 {background: #737373;color: #fff;}
-	td.monoColor6 {background: #9f9f9f;color: #000;}
-	td.monoColor7 {background: #d8d8d8;color: #000;}
-	td.monoColor8 {background: #7f7f7f;color: #fff;}
-	td.monoColor9 {background: #828282;color: #fff;}
-	td.monoColor10 {background: #d0d0d0;color: #000;}
-	td.monoColor11 {background: #dcdcdc;color: #000;}
-	td.monoColor12 {background: #464646;color: #fff;}
-	td.monoColor13 {background: #8e8e8e;color: #fff;}
-	td.monoColor14 {background: #6d6d6d;color: #000;}
-	td.monoColor15 {background: #f7f7f7;color: #000;}
+	td.monowhiteBackground {background: #ffffff;color: #000;}
+	td.monowhiteFont {background: #000000;color: #fff;}
+	td.monowhiteColor0 {background: #000000;color: #fff;}
+	td.monowhiteColor1 {background: #121212;color: #fff;}
+	td.monowhiteColor2 {background: #303030;color: #fff;}
+	td.monowhiteColor3 {background: #444444;color: #fff;}
+	td.monowhiteColor4 {background: #080808;color: #fff;}
+	td.monowhiteColor5 {background: #1c1c1c;color: #fff;}
+	td.monowhiteColor6 {background: #3a3a3a;color: #fff;}
+	td.monowhiteColor7 {background: #808080;color: #fff;}
+	td.monowhiteColor8 {background: #4e4e4e;color: #fff;}
+	td.monowhiteColor9 {background: #585858;color: #fff;}
+	td.monowhiteColor10 {background: #8a8a8a;color: #fff;}
+	td.monowhiteColor11 {background: #9e9e9e;color: #fff;}
+	td.monowhiteColor12 {background: #262626;color: #fff;}
+	td.monowhiteColor13 {background: #626262;color: #fff;}
+	td.monowhiteColor14 {background: #949494;color: #fff;}
+	td.monowhiteColor15 {background: #a8a8a8;color: #fff;}
+
+/* ################### Monochrome (white on black) ################## */
+
+	td.monoblackBackground {background: #000000;color: #fff;}
+	td.monoblackFont {background: #ffffff;color: #000;}
+	td.monoblackColor0 {background: #6c6c6c;color: #000;}
+	td.monoblackColor1 {background: #808080;color: #000;}
+	td.monoblackColor2 {background: #a8a8a8;color: #000;}
+	td.monoblackColor3 {background: #b2b2b2;color: #000;}
+	td.monoblackColor4 {background: #767676;color: #000;}
+	td.monoblackColor5 {background: #949494;color: #000;}
+	td.monoblackColor6 {background: #9e9e9e;color: #000;}
+	td.monoblackColor7 {background: #d0d0d0;color: #000;}
+	td.monoblackColor8 {background: #bcbcbc;color: #000;}
+	td.monoblackColor9 {background: #c6c6c6;color: #000;}
+	td.monoblackColor10 {background: #dadada;color: #000;}
+	td.monoblackColor11 {background: #eeeeee;color: #000;}
+	td.monoblackColor12 {background: #8a8a8a;color: #000;}
+	td.monoblackColor13 {background: #c0c0c0;color: #000;}
+	td.monoblackColor14 {background: #e4e4e4;color: #000;}
+	td.monoblackColor15 {background: #ffffff;color: #000;}
+
+/* ################### Monochrome (blueprint) ################## */
+
+	td.monoblueBackground {background: #005fd7;color: #fff;}
+	td.monoblueFont {background: #ffffff;color: #000;}
+	td.monoblueColor0 {background: #6c6c6c;color: #000;}
+	td.monoblueColor1 {background: #808080;color: #000;}
+	td.monoblueColor2 {background: #a8a8a8;color: #000;}
+	td.monoblueColor3 {background: #b2b2b2;color: #000;}
+	td.monoblueColor4 {background: #767676;color: #000;}
+	td.monoblueColor5 {background: #949494;color: #000;}
+	td.monoblueColor6 {background: #9e9e9e;color: #000;}
+	td.monoblueColor7 {background: #d0d0d0;color: #000;}
+	td.monoblueColor8 {background: #bcbcbc;color: #000;}
+	td.monoblueColor9 {background: #c6c6c6;color: #000;}
+	td.monoblueColor10 {background: #dadada;color: #000;}
+	td.monoblueColor11 {background: #eeeeee;color: #000;}
+	td.monoblueColor12 {background: #8a8a8a;color: #000;}
+	td.monoblueColor13 {background: #c0c0c0;color: #000;}
+	td.monoblueColor14 {background: #e4e4e4;color: #000;}
+	td.monoblueColor15 {background: #ffffff;color: #000;}
 
 /* ################### Green Phosphor ################## */
 
