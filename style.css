@@ -1,7 +1,7 @@
 	html {
 		font-family: sans-serif;
 		font-size: 10pt;
-		margin: 0 50px 0px 50px;
+		margin: 0 200px 0px 200px;
 		}
 
 	h4 {
@@ -29,19 +29,19 @@
 	td.defaultBackground {background: #000000;color: #fff;}
 	td.defaultFont {background: #ffffff;color: #000;}
 	td.defaultColor0 {background: #000000;color: #fff;}
-	td.defaultColor1 {background: #cd0000;color: #fff;}
-	td.defaultColor2 {background: #00cd00;color: #fff;}
-	td.defaultColor3 {background: #cdcd00;color: #fff;}
-	td.defaultColor4 {background: #0000cd;color: #fff;}
-	td.defaultColor5 {background: #cd00cd;color: #fff;}
-	td.defaultColor6 {background: #00cdcd;color: #fff;}
-	td.defaultColor7 {background: #e5e5e5;color: #000;}
-	td.defaultColor8 {background: #7f7f7f;color: #fff;}
+	td.defaultColor1 {background: #800000;color: #fff;}
+	td.defaultColor2 {background: #008000;color: #fff;}
+	td.defaultColor3 {background: #808000;color: #fff;}
+	td.defaultColor4 {background: #000080;color: #fff;}
+	td.defaultColor5 {background: #800080;color: #fff;}
+	td.defaultColor6 {background: #008080;color: #fff;}
+	td.defaultColor7 {background: #c0c0c0;color: #000;}
+	td.defaultColor8 {background: #808080;color: #fff;}
 	td.defaultColor9 {background: #ff0000;color: #fff;}
 	td.defaultColor10 {background: #00ff00;color: #000;}
 	td.defaultColor11 {background: #ffff00;color: #000;}
 	td.defaultColor12 {background: #0000ff;color: #fff;}
-	td.defaultColor13 {background: #ff00ff;color: #fff;}
+	td.defaultColor13 {background: #ff00ff;color: #000;}
 	td.defaultColor14 {background: #00ffff;color: #000;}
 	td.defaultColor15 {background: #ffffff;color: #000;}
 
