@@ -14,7 +14,7 @@ xterm.vt100.locate: false
 xterm.vt100.utf8: true
 
 ! # Set default xterm window size:
-xterm*vt100.geometry: 80x30
+xterm*vt100.geometry: 80x24
 
 ! # initial font size (ctrl+right click VT fonts menu > 0:default 1:unreadable 2:tiny 3:small 4:medium 5:large 6:huge 7:enormous):
 xterm*vt100.initialFont: 3
