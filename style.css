@@ -49,23 +49,23 @@ td.defaultColor15 {background: #ffffff;color: #000;}
 
 /* ################### Ubuntu colors ################## */
 
-td.ubuntuBackground {background: rgb(48,10,36);color: #fff;}
+td.ubuntuBackground {background: #380c2a;color: #fff;}
 td.ubuntuFont {background: #ffffff;color: #000;}
-td.ubuntuColor0 {background: #000000;color: #fff;}
-td.ubuntuColor1 {background: #bb0000;color: #fff;}
-td.ubuntuColor2 {background: #00bb00;color: #fff;}
-td.ubuntuColor3 {background: #bbbb00;color: #fff;}
-td.ubuntuColor4 {background: #0000b9;color: #fff;}
-td.ubuntuColor5 {background: #bb00bb;color: #fff;}
-td.ubuntuColor6 {background: #00bbbb;color: #fff;}
-td.ubuntuColor7 {background: #bbbbbb;color: #000;}
-td.ubuntuColor8 {background: #555555;color: #fff;}
-td.ubuntuColor9 {background: #ff5555;color: #fff;}
-td.ubuntuColor10 {background: #55ff55;color: #000;}
-td.ubuntuColor11 {background: #ffff55;color: #000;}
-td.ubuntuColor12 {background: #5555ff;color: #fff;}
-td.ubuntuColor13 {background: #ff55ff;color: #fff;}
-td.ubuntuColor14 {background: #55ffff;color: #000;}
+td.ubuntuColor0 {background: #171421;color: #fff;}
+td.ubuntuColor1 {background: #c01c28;color: #fff;}
+td.ubuntuColor2 {background: #26a269;color: #fff;}
+td.ubuntuColor3 {background: #a2734c;color: #fff;}
+td.ubuntuColor4 {background: #12488b;color: #fff;}
+td.ubuntuColor5 {background: #a347ba;color: #fff;}
+td.ubuntuColor6 {background: #2aa1b3;color: #fff;}
+td.ubuntuColor7 {background: #d0cfcc;color: #000;}
+td.ubuntuColor8 {background: #5e5c64;color: #fff;}
+td.ubuntuColor9 {background: #f66151;color: #fff;}
+td.ubuntuColor10 {background: #33da7a;color: #000;}
+td.ubuntuColor11 {background: #e9ad0c;color: #000;}
+td.ubuntuColor12 {background: #2a7bde;color: #fff;}
+td.ubuntuColor13 {background: #c061cb;color: #fff;}
+td.ubuntuColor14 {background: #33c7de;color: #000;}
 td.ubuntuColor15 {background: #ffffff;color: #000;}
 
 /* ################### DOS colors ################## */
