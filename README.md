@@ -15,7 +15,7 @@ Windows Terminal default font: Cascadia Code
 VSCode default font: Droid Sans Mono
 
 
-<!doctype html>
+<div align="center">
 <html lang="en-US">
 
 <head>
@@ -448,6 +448,8 @@ VSCode default font: Droid Sans Mono
 </body>
 
 </html>
+
+</div>
 
 
 #Screenshots:
