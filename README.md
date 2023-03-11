@@ -18,6 +18,336 @@ VSCode default font: Droid Sans Mono
 <div>
 <html lang="en-US">
 
+  <style>
+    html {
+    font-family: Sans;
+    font-size: 10pt;
+    margin: 0 200px 0 200px;
+}
+
+h4 {
+    font-style: italic;
+    text-decoration-line: underline;
+}
+
+table {
+    font-family: Dejavu Sans Mono;
+    border-collapse: collapse;
+    border: 1px solid rgb(0,0,0);
+    font-size: 0.8rem;
+    margin: 0 0 50px 30px;
+}
+
+td, th {
+    border: 1px solid rgb(0,0,0);
+    padding: 10px 20px;
+}
+
+td {
+    text-align: center;
+}
+
+/* ################### Default (White on Black) colors ################## */
+
+td.defaultBackground {background: #000000;color: #fff;}
+td.defaultFont {background: #ffffff;color: #000;}
+td.defaultColor0 {background: #000000;color: #fff;}
+td.defaultColor1 {background: #800000;color: #fff;}
+td.defaultColor2 {background: #008000;color: #fff;}
+td.defaultColor3 {background: #808000;color: #fff;}
+td.defaultColor4 {background: #000080;color: #fff;}
+td.defaultColor5 {background: #800080;color: #fff;}
+td.defaultColor6 {background: #008080;color: #fff;}
+td.defaultColor7 {background: #c0c0c0;color: #000;}
+td.defaultColor8 {background: #808080;color: #fff;}
+td.defaultColor9 {background: #ff0000;color: #fff;}
+td.defaultColor10 {background: #00ff00;color: #000;}
+td.defaultColor11 {background: #ffff00;color: #000;}
+td.defaultColor12 {background: #0000ff;color: #fff;}
+td.defaultColor13 {background: #ff00ff;color: #000;}
+td.defaultColor14 {background: #00ffff;color: #000;}
+td.defaultColor15 {background: #ffffff;color: #000;}
+
+/* ################### Ubuntu colors ################## */
+
+td.ubuntuBackground {background: #380c2a;color: #fff;}
+td.ubuntuFont {background: #ffffff;color: #000;}
+td.ubuntuColor0 {background: #171421;color: #fff;}
+td.ubuntuColor1 {background: #c01c28;color: #fff;}
+td.ubuntuColor2 {background: #26a269;color: #fff;}
+td.ubuntuColor3 {background: #a2734c;color: #fff;}
+td.ubuntuColor4 {background: #12488b;color: #fff;}
+td.ubuntuColor5 {background: #a347ba;color: #fff;}
+td.ubuntuColor6 {background: #2aa1b3;color: #fff;}
+td.ubuntuColor7 {background: #d0cfcc;color: #000;}
+td.ubuntuColor8 {background: #5e5c64;color: #fff;}
+td.ubuntuColor9 {background: #f66151;color: #fff;}
+td.ubuntuColor10 {background: #33da7a;color: #000;}
+td.ubuntuColor11 {background: #e9ad0c;color: #000;}
+td.ubuntuColor12 {background: #2a7bde;color: #fff;}
+td.ubuntuColor13 {background: #c061cb;color: #fff;}
+td.ubuntuColor14 {background: #33c7de;color: #000;}
+td.ubuntuColor15 {background: #ffffff;color: #000;}
+
+/* ################### DOS colors ################## */
+
+td.dosBackground {background: #000000;color: #fff;}
+td.dosFont {background: #aaaaaa;color: #000;}
+td.dosColor0 {background: #000000;color: #fff;}
+td.dosColor1 {background: #cd0000;color: #fff;}
+td.dosColor2 {background: #00cd00;color: #fff;}
+td.dosColor3 {background: #cdcd00;color: #fff;}
+td.dosColor4 {background: #0000cd;color: #fff;}
+td.dosColor5 {background: #cd00cd;color: #fff;}
+td.dosColor6 {background: #00cdcd;color: #fff;}
+td.dosColor7 {background: #c0c0c0;color: #000;}
+td.dosColor8 {background: #7f7f7f;color: #fff;}
+td.dosColor9 {background: #ff0000;color: #fff;}
+td.dosColor10 {background: #00ff00;color: #000;}
+td.dosColor11 {background: #ffff00;color: #000;}
+td.dosColor12 {background: #0000ff;color: #fff;}
+td.dosColor13 {background: #ff00ff;color: #fff;}
+td.dosColor14 {background: #00ffff;color: #000;}
+td.dosColor15 {background: #ffffff;color: #000;}
+
+/* ################### VS Code colors ################## */
+
+td.vscodeBackground {background: #1e1e1e;color: #fff;}
+td.vscodeFont {background: #d4d4d4;color: #000;}
+td.vscodeColor0 {background: #000000;color: #fff;}
+td.vscodeColor1 {background: #c50f1f;color: #fff;}
+td.vscodeColor2 {background: #16825d;color: #fff;}
+td.vscodeColor3 {background: #d7ba7d;color: #fff;}
+td.vscodeColor4 {background: #007acc;color: #fff;}
+td.vscodeColor5 {background: #68217a;color: #fff;}
+td.vscodeColor6 {background: #98c7e1;color: #fff;}
+td.vscodeColor7 {background: #d4d4d4;color: #000;}
+td.vscodeColor8 {background: #858585;color: #fff;}
+td.vscodeColor9 {background: #da6771;color: #fff;}
+td.vscodeColor10 {background: #6a9953;color: #000;}
+td.vscodeColor11 {background: #ffd700;color: #000;}
+td.vscodeColor12 {background: #04395e;color: #fff;}
+td.vscodeColor13 {background: #d470d6;color: #fff;}
+td.vscodeColor14 {background: #9cdcfe;color: #000;}
+td.vscodeColor15 {background: #ffffff;color: #000;}
+
+/* ################### Powershell colors ################## */
+
+td.powershellBackground {background: rgb(01,36,86);color: #fff;}
+td.powershellFont {background: #eeedf0;color: #000;}
+td.powershellColor0 {background: #000000;color: #fff;}
+td.powershellColor1 {background: #800000;color: #fff;}
+td.powershellColor2 {background: #008000;color: #fff;}
+td.powershellColor3 {background: #808000;color: #fff;}
+td.powershellColor4 {background: #000080;color: #fff;}
+td.powershellColor5 {background: #800080;color: #fff;}
+td.powershellColor6 {background: #008080;color: #fff;}
+td.powershellColor7 {background: #c0c0c0;color: #000;}
+td.powershellColor8 {background: #808080;color: #fff;}
+td.powershellColor9 {background: #ff0000;color: #fff;}
+td.powershellColor10 {background: #00ff00;color: #000;}
+td.powershellColor11 {background: #ffff00;color: #000;}
+td.powershellColor12 {background: #0000ff;color: #fff;}
+td.powershellColor13 {background: #ff00ff;color: #fff;}
+td.powershellColor14 {background: #00ffff;color: #000;}
+td.powershellColor15 {background: #ffffff;color: #000;}
+
+/* ################### Windows Terminal (Campbell) colors ################## */
+
+td.winterminalBackground {background: #0c0c0c;color: #fff;}
+td.winterminalFont {background: #cccccc;color: #000;}
+td.winterminalColor0 {background: #0c0c0c;color: #fff;}
+td.winterminalColor1 {background: #c50f1f;color: #fff;}
+td.winterminalColor2 {background: #13a10e;color: #fff;}
+td.winterminalColor3 {background: #c19c00;color: #fff;}
+td.winterminalColor4 {background: #0037da;color: #fff;}
+td.winterminalColor5 {background: #881798;color: #fff;}
+td.winterminalColor6 {background: #3a96dd;color: #fff;}
+td.winterminalColor7 {background: #cccccc;color: #000;}
+td.winterminalColor8 {background: #767676;color: #fff;}
+td.winterminalColor9 {background: #e74856;color: #fff;}
+td.winterminalColor10 {background: #16c60c;color: #000;}
+td.winterminalColor11 {background: #f9f1a5;color: #000;}
+td.winterminalColor12 {background: #3b78ff;color: #fff;}
+td.winterminalColor13 {background: #b4009e;color: #fff;}
+td.winterminalColor14 {background: #61d6d6;color: #000;}
+td.winterminalColor15 {background: #f2f2f2;color: #000;}
+
+/* ################### custom colors ################## */
+
+td.customBackground {background: #000000;color: #fff;}
+td.customFont {background: #a8a8a8;color: #000;}
+td.customColor0 {background: #000000;color: #fff;}
+td.customColor1 {background: #a80000;color: #fff;}
+td.customColor2 {background: #00a800;color: #fff;}
+td.customColor3 {background: #a85400;color: #fff;}
+td.customColor4 {background: #0000a8;color: #fff;}
+td.customColor5 {background: #a800a8;color: #fff;}
+td.customColor6 {background: #00a8a8;color: #fff;}
+td.customColor7 {background: #a8a8a8;color: #000;}
+td.customColor8 {background: #545454;color: #fff;}
+td.customColor9 {background: #fc5454;color: #fff;}
+td.customColor10 {background: #54fc54;color: #000;}
+td.customColor11 {background: #fcfc54;color: #000;}
+td.customColor12 {background: #5454fc;color: #fff;}
+td.customColor13 {background: #fc54fc;color: #fff;}
+td.customColor14 {background: #54fcfc;color: #000;}
+td.customColor15 {background: #fcfcfc;color: #000;}
+
+/* ################### Monochrome (black on white) ################## */
+
+td.monowhiteBackground {background: #ffffff;color: #000;}
+td.monowhiteFont {background: #000000;color: #fff;}
+td.monowhiteColor0 {background: #000000;color: #fff;}
+td.monowhiteColor1 {background: #121212;color: #fff;}
+td.monowhiteColor2 {background: #303030;color: #fff;}
+td.monowhiteColor3 {background: #444444;color: #fff;}
+td.monowhiteColor4 {background: #080808;color: #fff;}
+td.monowhiteColor5 {background: #1c1c1c;color: #fff;}
+td.monowhiteColor6 {background: #3a3a3a;color: #fff;}
+td.monowhiteColor7 {background: #808080;color: #fff;}
+td.monowhiteColor8 {background: #4e4e4e;color: #fff;}
+td.monowhiteColor9 {background: #585858;color: #fff;}
+td.monowhiteColor10 {background: #8a8a8a;color: #fff;}
+td.monowhiteColor11 {background: #9e9e9e;color: #fff;}
+td.monowhiteColor12 {background: #262626;color: #fff;}
+td.monowhiteColor13 {background: #626262;color: #fff;}
+td.monowhiteColor14 {background: #949494;color: #fff;}
+td.monowhiteColor15 {background: #a8a8a8;color: #fff;}
+
+/* ################### Monochrome (white on black) ################## */
+
+td.monoblackBackground {background: #000000;color: #fff;}
+td.monoblackFont {background: #ffffff;color: #000;}
+td.monoblackColor0 {background: #6c6c6c;color: #000;}
+td.monoblackColor1 {background: #808080;color: #000;}
+td.monoblackColor2 {background: #a8a8a8;color: #000;}
+td.monoblackColor3 {background: #b2b2b2;color: #000;}
+td.monoblackColor4 {background: #767676;color: #000;}
+td.monoblackColor5 {background: #949494;color: #000;}
+td.monoblackColor6 {background: #9e9e9e;color: #000;}
+td.monoblackColor7 {background: #d0d0d0;color: #000;}
+td.monoblackColor8 {background: #bcbcbc;color: #000;}
+td.monoblackColor9 {background: #c6c6c6;color: #000;}
+td.monoblackColor10 {background: #dadada;color: #000;}
+td.monoblackColor11 {background: #eeeeee;color: #000;}
+td.monoblackColor12 {background: #8a8a8a;color: #000;}
+td.monoblackColor13 {background: #c0c0c0;color: #000;}
+td.monoblackColor14 {background: #e4e4e4;color: #000;}
+td.monoblackColor15 {background: #ffffff;color: #000;}
+
+/* ################### Monochrome (blueprint) ################## */
+
+td.monoblueBackground {background: #005fd7;color: #fff;}
+td.monoblueFont {background: #ffffff;color: #000;}
+td.monoblueColor0 {background: #6c6c6c;color: #000;}
+td.monoblueColor1 {background: #808080;color: #000;}
+td.monoblueColor2 {background: #a8a8a8;color: #000;}
+td.monoblueColor3 {background: #b2b2b2;color: #000;}
+td.monoblueColor4 {background: #767676;color: #000;}
+td.monoblueColor5 {background: #949494;color: #000;}
+td.monoblueColor6 {background: #9e9e9e;color: #000;}
+td.monoblueColor7 {background: #d0d0d0;color: #000;}
+td.monoblueColor8 {background: #bcbcbc;color: #000;}
+td.monoblueColor9 {background: #c6c6c6;color: #000;}
+td.monoblueColor10 {background: #dadada;color: #000;}
+td.monoblueColor11 {background: #eeeeee;color: #000;}
+td.monoblueColor12 {background: #8a8a8a;color: #000;}
+td.monoblueColor13 {background: #c0c0c0;color: #000;}
+td.monoblueColor14 {background: #e4e4e4;color: #000;}
+td.monoblueColor15 {background: #ffffff;color: #000;}
+
+/* ################### Green Phosphor ################## */
+
+td.greenBackground {background: #282828;color: #fff;}
+td.greenFont {background: #00ff66;color: #000;}
+td.greenColor0 {background: #282828;color: #fff;}
+td.greenColor1 {background: #007f33;color: #fff;}
+td.greenColor2 {background: #00cc51;color: #000;}
+td.greenColor3 {background: #00e55b;color: #000;}
+td.greenColor4 {background: #006628;color: #fff;}
+td.greenColor5 {background: #007f33;color: #fff;}
+td.greenColor6 {background: #00b247;color: #000;}
+td.greenColor7 {background: #00cc51;color: #000;}
+td.greenColor8 {background: #007f33;color: #fff;}
+td.greenColor9 {background: #00993d;color: #fff;}
+td.greenColor10 {background: #00e55b;color: #000;}
+td.greenColor11 {background: #19ff75;color: #000;}
+td.greenColor12 {background: #007f33;color: #fff;}
+td.greenColor13 {background: #00b247;color: #fff;}
+td.greenColor14 {background: #00e55b;color: #000;}
+td.greenColor15 {background: #00ff66;color: #000;}
+
+/* ################### Amber Phosphor ################## */
+
+td.amberBackground {background: #282828;color: #fff;}
+td.amberFont {background: #ffb000;color: #000;}
+td.amberColor0 {background: #282828;color: #fff;}
+td.amberColor1 {background: #7f5800;color: #fff;}
+td.amberColor2 {background: #cc8c00;color: #000;}
+td.amberColor3 {background: #e59e00;color: #000;}
+td.amberColor4 {background: #664600;color: #fff;}
+td.amberColor5 {background: #7f5800;color: #fff;}
+td.amberColor6 {background: #b27b00;color: #000;}
+td.amberColor7 {background: #cc8c00;color: #000;}
+td.amberColor8 {background: #7f5800;color: #fff;}
+td.amberColor9 {background: #996900;color: #fff;}
+td.amberColor10 {background: #e59e00;color: #000;}
+td.amberColor11 {background: #ffb719;color: #000;}
+td.amberColor12 {background: #7f5800;color: #fff;}
+td.amberColor13 {background: #b27b00;color: #fff;}
+td.amberColor14 {background: #e59e00;color: #000;}
+td.amberColor15 {background: #ffb000;color: #000;}
+
+div {background: #282828;padding: 20px;margin: 0 0 50px 30px;}
+
+p {font-size: 14pt;margin: 20px;}
+
+p.amber {color: #ffb000;}
+p.amberLt {color: #ffcc00;}
+p.green1 {color: #33ff00;}
+p.apple2 {color: #33ff33;}
+p.green2 {color: #00ff33;}
+p.apple2c {color: #66ff66;}
+p.green3 {color: #00ff66;}
+p.phosphorBackground {color: #aaa;}
+
+table.phosphor {
+    font-family: Sans;
+    font-size: 14pt;
+    margin: 0 0 20px 20px;
+    border-collapse: collapse;
+    border: none;
+}
+
+td.title {
+    border: none;
+    padding: 10px 20px;
+    text-align: right;
+}
+
+td.content {
+    border: none;
+    padding: 10px 20px;
+    text-align: right;
+}
+
+td.rgb {
+    border: none;
+    padding: 10px 20px;
+    text-align: left;
+}
+
+tr.amber {color: #ffb000;}
+tr.amberLt {color: #ffcc00;}
+tr.green1 {color: #33ff00;}
+tr.apple2 {color: #33ff33;}
+tr.green2 {color: #00ff33;}
+tr.apple2c {color: #66ff66;}
+tr.green3 {color: #00ff66;}
+tr.phosphorBackground {color: #aaa;}
+  </style>
+  
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width" />
