@@ -1,7 +1,7 @@
 html {
     font-family: Sans;
     font-size: 10pt;
-    margin: 0 200px 0px 200px;
+    margin: 0 200px 0 200px;
 }
 
 h4 {
@@ -277,3 +277,51 @@ td.amberColor12 {background: #7f5800;color: #fff;}
 td.amberColor13 {background: #b27b00;color: #fff;}
 td.amberColor14 {background: #e59e00;color: #000;}
 td.amberColor15 {background: #ffb000;color: #000;}
+
+div {background: #282828;padding: 20px;margin: 0 0 50px 30px;}
+
+p {font-size: 14pt;margin: 20px;}
+
+p.amber {color: #ffb000;}
+p.amberLt {color: #ffcc00;}
+p.green1 {color: #33ff00;}
+p.apple2 {color: #33ff33;}
+p.green2 {color: #00ff33;}
+p.apple2c {color: #66ff66;}
+p.green3 {color: #00ff66;}
+p.phosphorBackground {color: #aaa;}
+
+table.phosphor {
+    font-family: Sans;
+    font-size: 14pt;
+    margin: 0 0 20px 20px;
+    border-collapse: collapse;
+    border: none;
+}
+
+td.title {
+    border: none;
+    padding: 10px 20px;
+    text-align: right;
+}
+
+td.content {
+    border: none;
+    padding: 10px 20px;
+    text-align: right;
+}
+
+td.rgb {
+    border: none;
+    padding: 10px 20px;
+    text-align: left;
+}
+
+tr.amber {color: #ffb000;}
+tr.amberLt {color: #ffcc00;}
+tr.green1 {color: #33ff00;}
+tr.apple2 {color: #33ff33;}
+tr.green2 {color: #00ff33;}
+tr.apple2c {color: #66ff66;}
+tr.green3 {color: #00ff66;}
+tr.phosphorBackground {color: #aaa;}
