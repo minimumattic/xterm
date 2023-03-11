@@ -26,7 +26,7 @@ td {
     text-align: center;
 }
 
-/* ################### Default (White on Black) colors ################## */
+/* Default (White on Black) colors */
 
 td.defaultBackground {background: #000000;color: #fff;}
 td.defaultFont {background: #ffffff;color: #000;}
@@ -47,7 +47,7 @@ td.defaultColor13 {background: #ff00ff;color: #000;}
 td.defaultColor14 {background: #00ffff;color: #000;}
 td.defaultColor15 {background: #ffffff;color: #000;}
 
-/* ################### Ubuntu colors ################## */
+/* Ubuntu colors */
 
 td.ubuntuBackground {background: #380c2a;color: #fff;}
 td.ubuntuFont {background: #ffffff;color: #000;}
@@ -68,7 +68,7 @@ td.ubuntuColor13 {background: #c061cb;color: #fff;}
 td.ubuntuColor14 {background: #33c7de;color: #000;}
 td.ubuntuColor15 {background: #ffffff;color: #000;}
 
-/* ################### DOS colors ################## */
+/* DOS colors */
 
 td.dosBackground {background: #000000;color: #fff;}
 td.dosFont {background: #aaaaaa;color: #000;}
@@ -89,7 +89,7 @@ td.dosColor13 {background: #ff00ff;color: #fff;}
 td.dosColor14 {background: #00ffff;color: #000;}
 td.dosColor15 {background: #ffffff;color: #000;}
 
-/* ################### VS Code colors ################## */
+/* VS Code colors */
 
 td.vscodeBackground {background: #1e1e1e;color: #fff;}
 td.vscodeFont {background: #d4d4d4;color: #000;}
@@ -110,7 +110,7 @@ td.vscodeColor13 {background: #d470d6;color: #fff;}
 td.vscodeColor14 {background: #9cdcfe;color: #000;}
 td.vscodeColor15 {background: #ffffff;color: #000;}
 
-/* ################### Powershell colors ################## */
+/* Powershell colors */
 
 td.powershellBackground {background: rgb(01,36,86);color: #fff;}
 td.powershellFont {background: #eeedf0;color: #000;}
@@ -131,7 +131,7 @@ td.powershellColor13 {background: #ff00ff;color: #fff;}
 td.powershellColor14 {background: #00ffff;color: #000;}
 td.powershellColor15 {background: #ffffff;color: #000;}
 
-/* ################### Windows Terminal (Campbell) colors ################## */
+/* Windows Terminal (Campbell) colors */
 
 td.winterminalBackground {background: #0c0c0c;color: #fff;}
 td.winterminalFont {background: #cccccc;color: #000;}
@@ -152,7 +152,7 @@ td.winterminalColor13 {background: #b4009e;color: #fff;}
 td.winterminalColor14 {background: #61d6d6;color: #000;}
 td.winterminalColor15 {background: #f2f2f2;color: #000;}
 
-/* ################### custom colors ################## */
+/* custom colors */
 
 td.customBackground {background: #000000;color: #fff;}
 td.customFont {background: #a8a8a8;color: #000;}
@@ -173,7 +173,7 @@ td.customColor13 {background: #fc54fc;color: #fff;}
 td.customColor14 {background: #54fcfc;color: #000;}
 td.customColor15 {background: #fcfcfc;color: #000;}
 
-/* ################### Monochrome (black on white) ################## */
+/* Monochrome (black on white) */
 
 td.monowhiteBackground {background: #ffffff;color: #000;}
 td.monowhiteFont {background: #000000;color: #fff;}
@@ -194,7 +194,7 @@ td.monowhiteColor13 {background: #626262;color: #fff;}
 td.monowhiteColor14 {background: #949494;color: #fff;}
 td.monowhiteColor15 {background: #a8a8a8;color: #fff;}
 
-/* ################### Monochrome (white on black) ################## */
+/* Monochrome (white on black) */
 
 td.monoblackBackground {background: #000000;color: #fff;}
 td.monoblackFont {background: #ffffff;color: #000;}
@@ -215,7 +215,7 @@ td.monoblackColor13 {background: #c0c0c0;color: #000;}
 td.monoblackColor14 {background: #e4e4e4;color: #000;}
 td.monoblackColor15 {background: #ffffff;color: #000;}
 
-/* ################### Monochrome (blueprint) ################## */
+/* Monochrome (blueprint) */
 
 td.monoblueBackground {background: #005fd7;color: #fff;}
 td.monoblueFont {background: #ffffff;color: #000;}
@@ -236,7 +236,7 @@ td.monoblueColor13 {background: #c0c0c0;color: #000;}
 td.monoblueColor14 {background: #e4e4e4;color: #000;}
 td.monoblueColor15 {background: #ffffff;color: #000;}
 
-/* ################### Green Phosphor ################## */
+/* Green Phosphor */
 
 td.greenBackground {background: #282828;color: #fff;}
 td.greenFont {background: #00ff66;color: #000;}
@@ -257,7 +257,7 @@ td.greenColor13 {background: #00b247;color: #fff;}
 td.greenColor14 {background: #00e55b;color: #000;}
 td.greenColor15 {background: #00ff66;color: #000;}
 
-/* ################### Amber Phosphor ################## */
+/* Amber Phosphor */
 
 td.amberBackground {background: #282828;color: #fff;}
 td.amberFont {background: #ffb000;color: #000;}
@@ -277,6 +277,8 @@ td.amberColor12 {background: #7f5800;color: #fff;}
 td.amberColor13 {background: #b27b00;color: #fff;}
 td.amberColor14 {background: #e59e00;color: #000;}
 td.amberColor15 {background: #ffb000;color: #000;}
+
+/* Phosphor Color Codes */
 
 div {background: #282828;padding: 20px;margin: 0 0 50px 30px;}
 
