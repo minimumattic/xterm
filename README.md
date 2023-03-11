@@ -15,16 +15,14 @@ Windows Terminal default font: Cascadia Code
 VSCode default font: Droid Sans Mono
 
 
-<div align="center">
+<div>
 <html lang="en-US">
 
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width" />
-
-  <title>XTerm custom colors</title>
   <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" />
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="xterm/style.css" />
 </head>
 
 <body>
