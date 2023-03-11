@@ -335,7 +335,6 @@ tr.phosphorBackground {color: #aaa;}
       </style>
 
       <!-- your HTML -->
-      <!doctype html>
 <html lang="en-US">
 
 <head>
