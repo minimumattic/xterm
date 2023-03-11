@@ -14,9 +14,6 @@ Windows Terminal default font: Cascadia Code
 
 VSCode default font: Droid Sans Mono
 
-<div align="center">
-    <img src="web.svg" width="800" height="400" alt="css-in-readme">
-</div>
 
 #Screenshots:
 
