@@ -1,4 +1,4 @@
-! XTerm Blueprint monochrome configuration.
+! XTerm monochrome (White on Black).
 
 ! Define xterm colors > "xterm-256color, xterm-16color, xterm-mono"
 xterm.termName: xterm-16color
