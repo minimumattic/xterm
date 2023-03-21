@@ -26,6 +26,10 @@ td {
     text-align: center;
 }
 
+img {
+    margin: 0 0 50px 30px;
+}
+
 /* Default (White on Black) colors */
 td.defaultBackground {background: #000000;color: #fff;}
 td.defaultFont {background: #ffffff;color: #000;}
