@@ -78,4 +78,16 @@ Amber Phosphor (16color):
 
 ![amber](https://user-images.githubusercontent.com/72235930/217970216-c4fbc949-98bc-4c7d-8604-190c4214d26c.png)
 
+Solarized Dark (16color):
+
+![Screenshot from 2023-03-22 02-49-07](https://user-images.githubusercontent.com/72235930/226766962-22291635-384b-4d5d-b6fc-1cbcdc37cfe3.png)
+
+![Screenshot from 2023-03-22 02-49-19](https://user-images.githubusercontent.com/72235930/226766977-6111f73f-8249-445c-9c26-51e9330e9a40.png)
+
+
+Solarized Light (16color):
+
+![solar-light](https://user-images.githubusercontent.com/72235930/226767005-591a8dd8-0ebc-4535-83ee-33c4a3313bef.png)
+
+![Screenshot from 2023-03-22 02-48-14](https://user-images.githubusercontent.com/72235930/226767020-9d28460c-cff1-41de-8c1f-9a3d32fa64f6.png)
 
