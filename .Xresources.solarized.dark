@@ -78,8 +78,6 @@
 *color7:                S_base2
 *color15:               S_base3
 
-!! XTerm configuration with Ubuntu purple terminal color and font.
-
 !! Define xterm colors > "xterm-256color, xterm-16color, xterm-mono"
 xterm.termName: xterm-16color
 
