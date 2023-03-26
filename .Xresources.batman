@@ -1,0 +1,128 @@
+! XTerm Blueprint monochrome configuration.
+
+! Colors:
+!
+! Generated with :
+! XRDB2Xreources.py
+!
+*.foreground:  #6f6f6f
+*.background:  #1b1d1e
+*.cursorColor: #fcef0c
+!
+! Black
+*.color0:      #1b1d1e
+*.color8:      #505354
+!
+! Red
+*.color1:      #e6dc44
+*.color9:      #fff78e
+!
+! Green
+*.color2:      #c8be46
+*.color10:     #fff27d
+!
+! Yellow
+*.color3:      #f4fd22
+*.color11:     #feed6c
+!
+! Blue
+*.color4:      #737174
+*.color12:     #919495
+!
+! Magenta
+*.color5:      #747271
+*.color13:     #9a9a9d
+!
+! Cyan
+*.color6:      #62605f
+*.color14:     #a3a3a6
+!
+! White
+*.color7:      #c6c5bf
+*.color15:     #dadbd6
+!
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:
+
+! Define xterm colors > "xterm-256color, xterm-16color, xterm-mono"
+xterm.termName: xterm-16color
+
+! Ensure using UTF-8
+! xterm.vt100.locale: true
+
+! Force UTF-8
+xterm.vt100.locate: false
+xterm.vt100.utf8: true
+
+! Set default xterm window size:
+xterm*vt100.geometry: 80x24
+
+! Initial font size (ctrl+right click VT fonts menu > 0:default 1:unreadable 2:tiny 3:small 4:medium 5:large 6:huge 7:enormous):
+xterm*vt100.initialFont: 0
+
+! Enable/Disable TrueType fonts:
+xterm*vt100.renderFont: false
+
+! Default font and size:
+xterm*vt100.faceName: DejaVu Sans Mono
+xterm*vt100.faceSize: 12
+
+! Chinese fonts:
+xterm*vt100.faceNameDoublesize: AR PL UMing HK
+
+! Enable Right-side scrollbar:
+xterm*vt100.ScrollBar: true
+xterm*vt100.rightScrollBar: true
+xterm*vt100.leftScrollBar: false
+xterm.vt100.scrollbar.width: 15
+
+! Scrollbacks:
+xterm*vt100.savelines: 16384
+
+! Stop output to terminal from jumping down to bottom of scroll again:
+xterm*vt100.scrollTtyOutput: false
+
+! Cursor blink enable:
+xterm*vt100.cursorBlink: true
+
+! Enable clipboard:
+xterm*vt100.selectToClipboard: true
+
+! Double-click to select whole word and URLs:
+xterm*vt100.charClass: 33:48,36-47:48,58-59:48,61:48,63-64:48,95:48,126:48
+
+! Right Click for paste instead of middle button / Ctrl-C to copy, Ctrl-V to paste / Ctrl-M to maximize, Ctrl-R to restore terminal window
+xterm*vt100.translations: #override \n\
+	~Ctrl ~Meta <Btn3Down>: ignore() \n\
+	Meta <Btn3Down>: clear-saved-lines() \n\
+	~Ctrl ~Meta <Btn3Up>: insert-selection(SELECT, CUT_BUFFER0) \n\
+	~Ctrl ~Meta <Btn2Down>: start-extend() \n\
+	Ctrl Shift <Key>C: copy-selection(CLIPBOARD) \n\
+	Ctrl Shift <Key>V: insert-selection(CLIPBOARD) \n\
+	Ctrl <Key>M: maximize() \n\
+	Ctrl <Key>R: restore() \n\
+
+! Enable <Alt> key combination:
+xterm*vt100.metaSendsEscape: true
+
+! Make <Alt> work:
+xterm*vt100.eightBitInput:   false
+xterm*vt100.eightBitOutput:  true
+
+! Fix backspace key
+xterm.vt100.backarrowKey: false
+xterm.ttyModes: erase ^?
+
+! Every shell is a login shell by default (for inclusion of all necessary environment variables):
+xterm*vt100.loginshell: true
+
+! Specifies the number of pixels between the characters and the window border. The default is 2.
+xterm*vt100.internalBorder: 2
+
+! ##############################################################
+
+! "xrdb -query > current_X_resources" --> view current X resources
+! "xrdb -load ~/.Xresources" --> load and replace old entries
+! "xrdb -merge ~/.Xresources" --> merges with any existing X resources
