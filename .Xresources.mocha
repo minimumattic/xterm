@@ -1,58 +1,30 @@
-! XTerm CMYK configuration.
+! Default XTerm configuration without TrueType font and custom colors.
 
 ! Colors:
-! cyan: #00aeef
-! magenta: #ec008c
-! yellow: #fff200
-! black: #000000
-
-! red: #ed1c24
-! green: #00a651
-! blue: #2e3192
-
-*.foreground:  #aaaaaa
-*.background:  #000000
-*.cursorColor: #fff200
-
-! Black
-*.color0:      #000000
-*.color8:      #000000
-!
-! Magenta
-*.color1:      #ec008c
-*.color9:      #ec008c
-!
-! Cyan
-*.color2:      #00aeef
-*.color10:     #00aeef
-!
-! Yellow
-*.color3:      #fff200
-*.color11:     #fff200
-!
-! Cyan
-*.color4:      #00aeef
-*.color12:     #00aeef
-!
-! Magenta
-*.color5:      #ec008c
-*.color13:     #ec008c
-!
-! Yellow
-*.color6:      #fff200
-*.color14:     #fff200
-!
-! White
-*.color7:      #ffffff
-*.color15:     #ffffff
-!
-! Bold, Italic, Underline
-*.colorBD:     #a5a2a2
-!*.colorIT:
-!*.colorUL:
+xterm*vt100.background: #20131c
+xterm*vt100.foreground: #ddc5d5
+xterm*vt100.color0: #2a1925
+xterm*vt100.color1: #dc322f
+xterm*vt100.color2: #859900
+xterm*vt100.color3: #b58900
+xterm*vt100.color4: #268bd2
+xterm*vt100.color5: #d33682
+xterm*vt100.color6: #2aa198
+xterm*vt100.color7: #eee8d5
+xterm*vt100.color8: #20131c
+xterm*vt100.color9: #cb4b16
+xterm*vt100.color10: #586e75
+xterm*vt100.color11: #657b83
+xterm*vt100.color12: #839496
+xterm*vt100.color13: #6c71c4
+xterm*vt100.color14: #93a1a1
+xterm*vt100.color15: #fdf6e3
 
 ! Define xterm colors > "xterm-256color, xterm-16color, xterm-mono"
 xterm.termName: xterm-16color
+
+! Reverse colors > on: white on black, off: black on white
+xterm*vt100.reverseVideo: off
 
 ! Ensure using UTF-8
 ! xterm.vt100.locale: true
@@ -71,8 +43,8 @@ xterm*vt100.initialFont: 0
 xterm*vt100.renderFont: false
 
 ! Default font and size:
-xterm*vt100.faceName: C64 Pro Mono
-xterm*vt100.faceSize: 10
+xterm*vt100.faceName: DejaVu Sans Mono
+xterm*vt100.faceSize: 12
 
 ! Chinese fonts:
 xterm*vt100.faceNameDoublesize: AR PL UMing HK

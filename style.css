@@ -487,6 +487,26 @@ td.solarLightColor13 {background: #6c71c4;color: #fff;}
 td.solarLightColor14 {background: #586e75;color: #000;}
 td.solarLightColor15 {background: #002b36;color: #fff;}
 
+/* Mocha */
+td.mochaBackground {background: #20131c;color: #fff;}
+td.mochaFont {background: #ddc5d5;color: #000;}
+td.mochaColor0 {background: #2a1925;color: #fff;}
+td.mochaColor1 {background: #dc322f;color: #fff;}
+td.mochaColor2 {background: #859900;color: #fff;}
+td.mochaColor3 {background: #b58900;color: #fff;}
+td.mochaColor4 {background: #268bd2;color: #fff;}
+td.mochaColor5 {background: #d33682;color: #fff;}
+td.mochaColor6 {background: #2aa198;color: #fff;}
+td.mochaColor7 {background: #eee8d5;color: #000;}
+td.mochaColor8 {background: #20131c;color: #fff;}
+td.mochaColor9 {background: #cb4b16;color: #fff;}
+td.mochaColor10 {background: #586e75;color: #000;}
+td.mochaColor11 {background: #657b83;color: #000;}
+td.mochaColor12 {background: #839496;color: #fff;}
+td.mochaColor13 {background: #6c71c4;color: #fff;}
+td.mochaColor14 {background: #93a1a1;color: #000;}
+td.mochaColor15 {background: #fdf6e3;color: #000;}
+
 /* CMYK*/
 td.cmykBackground {background: #000000;color: #fff;}
 td.cmykFont {background: #aaaaaa;color: #000;}
