@@ -12,7 +12,7 @@
 
 *.foreground:  #aaaaaa
 *.background:  #000000
-*.cursorColor: #ec008c
+*.cursorColor: #00aeef
 
 ! Black
 *.color0:      #000000
@@ -22,21 +22,21 @@
 *.color1:      #ec008c
 *.color9:      #ec008c
 !
+! Cyan
+*.color2:      #00aeef
+*.color10:     #00aeef
+!
 ! Yellow
-*.color2:      #fff200
-*.color10:     #fff200
+*.color3:      #fff200
+*.color11:     #fff200
 !
 ! Cyan
-*.color3:      #00aeef
-*.color11:     #00aeef
+*.color4:      #00aeef
+*.color12:     #00aeef
 !
 ! Magenta
-*.color4:      #ec008c
-*.color12:     #ec008c
-!
-! Cyan
-*.color5:      #00aeef
-*.color13:     #00aeef
+*.color5:      #ec008c
+*.color13:     #ec008c
 !
 ! Yellow
 *.color6:      #fff200
