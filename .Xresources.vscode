@@ -37,7 +37,7 @@ xterm*vt100.geometry: 80x24
 xterm*vt100.initialFont: 0
 
 ! Enable/Disable TrueType fonts:
-xterm*vt100.renderFont: true
+xterm*vt100.renderFont: false
 
 ! Default font and size:
 xterm*vt100.faceName: Droid Sans Mono

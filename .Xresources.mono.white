@@ -44,7 +44,7 @@ xterm*vt100.faceName: DejaVu Sans Mono
 xterm*vt100.faceSize: 12
 
 ! Enable/Disable TrueType fonts:
-xterm*vt100.renderFont: true
+xterm*vt100.renderFont: false
 
 ! Default font and size:
 xterm*vt100.faceName: Consolas
