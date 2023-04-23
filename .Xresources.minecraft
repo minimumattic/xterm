@@ -1,35 +1,32 @@
-! XTerm vintage amber monochrome configuration with various CRT phosphor colors.
+! XTerm Minecraft configuration.
 
-! Vintage PC - CRT Phospor colors:
-! AMBER: #ffb000
-! AMBER-LT: #ffcc00
-! GREEN 1: #33ff00
-! GREEN 2: #00ff33
-! GREEN 3: #00ff66
-! APPLE II: #33ff33
-! APPLE //c: #66ff66
-! Blue phosphor: #00a3dd
-! background: #282828
+! Colors:
 
-! Color > AMBER:
-xterm*vt100.background: rgb:28/28/28
-xterm*vt100.foreground: rgb:ff/b0/00
-xterm*vt100.color0: rgb:28/28/28
-xterm*vt100.color1: rgb:7f/58/00
-xterm*vt100.color2: rgb:cc/8c/00
-xterm*vt100.color3: rgb:e5/9e/00
-xterm*vt100.color4: rgb:66/46/00
-xterm*vt100.color5: rgb:7f/58/00
-xterm*vt100.color6: rgb:b2/7b/00
-xterm*vt100.color7: rgb:cc/8c/00
-xterm*vt100.color8: rgb:7f/58/00
-xterm*vt100.color9: rgb:99/69/00
-xterm*vt100.color10: rgb:e5/9e/00
-xterm*vt100.color11: rgb:ff/b7/19
-xterm*vt100.color12: rgb:7f/58/00
-xterm*vt100.color13: rgb:b2/7b/00
-xterm*vt100.color14: rgb:e5/9e/00
-xterm*vt100.color15: rgb:ff/b0/00
+*.foreground:  #aaaaaa
+*.background:  #000000
+*.cursorColor: #aaaaaa
+
+*.color0:      #000000
+*.color1:      #0000aa
+*.color2:      #00aa00
+*.color3:      #00aaaa
+*.color4:      #aa0000
+*.color5:      #aa00aa
+*.color6:      #ffaa00
+*.color7:      #aaaaaa
+*.color8:      #555555
+*.color9:      #5555ff
+*.color10:     #55ff55
+*.color11:     #55ffff
+*.color12:     #ff5555
+*.color13:     #ff55ff
+*.color14:     #ffff55
+*.color15:     #ffffff
+
+! Bold, Italic, Underline
+*.colorBD:     #ffffff
+!*.colorIT:
+!*.colorUL:
 
 ! Define xterm colors > "xterm-256color, xterm-16color, xterm-mono"
 xterm.termName: xterm-16color
