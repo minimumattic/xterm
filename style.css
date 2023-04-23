@@ -486,3 +486,24 @@ td.solarLightColor12 {background: #657b83;color: #fff;}
 td.solarLightColor13 {background: #6c71c4;color: #fff;}
 td.solarLightColor14 {background: #586e75;color: #000;}
 td.solarLightColor15 {background: #002b36;color: #fff;}
+
+/* CMYK*/
+td.cmykBackground {background: #000000;color: #fff;}
+td.cmykFont {background: #aaaaaa;color: #000;}
+td.cmykColor0 {background: #000000;color: #fff;}
+td.cmykColor1 {background: #ec008c;color: #fff;}
+td.cmykColor2 {background: #fff200;color: #000;}
+td.cmykColor3 {background: #00aeef;color: #000;}
+td.cmykColor4 {background: #ec008c;color: #fff;}
+td.cmykColor5 {background: #00aeef;color: #000;}
+td.cmykColor6 {background: #fff200;color: #000;}
+td.cmykColor7 {background: #ffffff;color: #000;}
+td.cmykColor8 {background: #000000;color: #fff;}
+td.cmykColor9 {background: #ec008c;color: #fff;}
+td.cmykColor10 {background: #fff200;color: #000;}
+td.cmykColor11 {background: #00aeef;color: #000;}
+td.cmykColor12 {background: #ec008c;color: #fff;}
+td.cmykColor13 {background: #00aeef;color: #000;}
+td.cmykColor14 {background: #fff200;color: #000;}
+td.cmykColor15 {background: #ffffff;color: #000;}
+

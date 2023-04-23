@@ -1,45 +1,50 @@
-! XTerm C64 - 8color configuration.
+! XTerm CMYK configuration.
 
 ! Colors:
-!
-! Generated with :
-! XRDB2Xreources.py
-!
-*.foreground:  #7869c4
-*.background:  #40318d
-*.cursorColor: #7869c4
-!
+! cyan: #00aeef
+! magenta: #ec008c
+! yellow: #fff200
+! black: #000000
+
+! red: #ed1c24
+! green: #00a651
+! blue: #2e3192
+
+*.foreground:  #aaaaaa
+*.background:  #000000
+*.cursorColor: #ec008c
+
 ! Black
-*.color0:      #090300
+*.color0:      #000000
 *.color8:      #000000
 !
-! Red
-*.color1:      #883932
-*.color9:      #883932
-!
-! Green
-*.color2:      #55a049
-*.color10:     #55a049
+! Magenta
+*.color1:      #ec008c
+*.color9:      #ec008c
 !
 ! Yellow
-*.color3:      #bfce72
-*.color11:     #bfce72
-!
-! Blue
-*.color4:      #0000aa
-*.color12:     #0000aa
-!
-! Magenta
-*.color5:      #8b3f96
-*.color13:     #8b3f96
+*.color2:      #fff200
+*.color10:     #fff200
 !
 ! Cyan
-*.color6:      #67b6bd
-*.color14:     #67b6bd
+*.color3:      #00aeef
+*.color11:     #00aeef
+!
+! Magenta
+*.color4:      #ec008c
+*.color12:     #ec008c
+!
+! Cyan
+*.color5:      #00aeef
+*.color13:     #00aeef
+!
+! Yellow
+*.color6:      #fff200
+*.color14:     #fff200
 !
 ! White
 *.color7:      #ffffff
-*.color15:     #f7f7f7
+*.color15:     #ffffff
 !
 ! Bold, Italic, Underline
 *.colorBD:     #a5a2a2
