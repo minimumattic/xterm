@@ -1,24 +1,24 @@
 ! XTerm configuration with Windows Terminal style colors and fonts.
 
 ! Colors:
-xterm*vt100.background: rgb:0c/0c/0c
-xterm*vt100.foreground: rgb:cc/cc/cc
-xterm*vt100.color0: rgb:0c/0c/0c
-xterm*vt100.color1: rgb:c5/0f/1f
-xterm*vt100.color2: rgb:13/a1/0e
-xterm*vt100.color3: rgb:c1/9c/00
-xterm*vt100.color4: rgb:00/37/da
-xterm*vt100.color5: rgb:88/17/98
-xterm*vt100.color6: rgb:3a/96/dd
-xterm*vt100.color7: rgb:cc/cc/cc
-xterm*vt100.color8: rgb:76/76/76
-xterm*vt100.color9: rgb:e7/48/56
-xterm*vt100.color10: rgb:16/c6/0c
-xterm*vt100.color11: rgb:f9/f1/a5
-xterm*vt100.color12: rgb:3b/78/ff
-xterm*vt100.color13: rgb:b4/00/9e
-xterm*vt100.color14: rgb:61/d6/d6
-xterm*vt100.color15: rgb:f2/f2/f2
+xterm*vt100.background: #0c0c0c
+xterm*vt100.foreground: #cccccc
+xterm*vt100.color0: #0c0c0c
+xterm*vt100.color1: #c50f1f
+xterm*vt100.color2: #13a10e
+xterm*vt100.color3: #c19c00
+xterm*vt100.color4: #0037da
+xterm*vt100.color5: #881798
+xterm*vt100.color6: #3a96dd
+xterm*vt100.color7: #cccccc
+xterm*vt100.color8: #767676
+xterm*vt100.color9: #e74856
+xterm*vt100.color10: #16c60c
+xterm*vt100.color11: #f9f1a5
+xterm*vt100.color12: #3b78ff
+xterm*vt100.color13: #b4009e
+xterm*vt100.color14: #61d6d6
+xterm*vt100.color15: #f2f2f2
 
 ! Define xterm colors > "xterm-256color, xterm-16color, xterm-mono"
 xterm.termName: xterm-256color

@@ -1,24 +1,24 @@
 ! XTerm monochrome (Black on White).
 
 ! Colors:
-xterm*vt100.background: rgb:ff/ff/ff
-xterm*vt100.foreground: rgb:00/00/00
-xterm*vt100.color0: rgb:00/00/00
-xterm*vt100.color1: rgb:12/12/12
-xterm*vt100.color2: rgb:30/30/30
-xterm*vt100.color3: rgb:44/44/44
-xterm*vt100.color4: rgb:08/08/08
-xterm*vt100.color5: rgb:1c/1c/1c
-xterm*vt100.color6: rgb:3a/3a/3a
-xterm*vt100.color7: rgb:80/80/80
-xterm*vt100.color8: rgb:4e/4e/4e
-xterm*vt100.color9: rgb:58/58/58
-xterm*vt100.color10: rgb:8a/8a/8a
-xterm*vt100.color11: rgb:9e/9e/9e
-xterm*vt100.color12: rgb:26/26/26
-xterm*vt100.color13: rgb:62/62/62
-xterm*vt100.color14: rgb:94/94/94
-xterm*vt100.color15: rgb:a8/a8/a8
+xterm*vt100.background: #ffffff
+xterm*vt100.foreground: #000000
+xterm*vt100.color0: #000000
+xterm*vt100.color1: #121212
+xterm*vt100.color2: #303030
+xterm*vt100.color3: #444444
+xterm*vt100.color4: #080808
+xterm*vt100.color5: #1c1c1c
+xterm*vt100.color6: #3a3a3a
+xterm*vt100.color7: #808080
+xterm*vt100.color8: #4e4e4e
+xterm*vt100.color9: #585858
+xterm*vt100.color10: #8a8a8a
+xterm*vt100.color11: #9e9e9e
+xterm*vt100.color12: #262626
+xterm*vt100.color13: #626262
+xterm*vt100.color14: #949494
+xterm*vt100.color15: #a8a8a8
 
 ! Define xterm colors > "xterm-256color, xterm-16color, xterm-mono"
 xterm.termName: xterm-16color

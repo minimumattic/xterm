@@ -2,23 +2,23 @@
 
 ! Colors:
 xterm*vt100.background: rgb:01/36/86
-xterm*vt100.foreground: rgb:ee/ed/f0
-xterm*vt100.color0: rgb:00/00/00
-xterm*vt100.color1: rgb:80/00/00
-xterm*vt100.color2: rgb:00/80/00
-xterm*vt100.color3: rgb:80/80/00
-xterm*vt100.color4: rgb:00/00/80
-xterm*vt100.color5: rgb:80/00/80
-xterm*vt100.color6: rgb:00/80/80
-xterm*vt100.color7: rgb:c0/c0/c0
-xterm*vt100.color8: rgb:80/80/80
-xterm*vt100.color9: rgb:ff/00/00
-xterm*vt100.color10: rgb:00/ff/00
-xterm*vt100.color11: rgb:ff/ff/00
-xterm*vt100.color12: rgb:00/00/ff
-xterm*vt100.color13: rgb:ff/00/ff
-xterm*vt100.color14: rgb:00/ff/ff
-xterm*vt100.color15: rgb:ff/ff/ff
+xterm*vt100.foreground: #eeedf0
+xterm*vt100.color0: #000000
+xterm*vt100.color1: #800000
+xterm*vt100.color2: #008000
+xterm*vt100.color3: #808000
+xterm*vt100.color4: #000080
+xterm*vt100.color5: #800080
+xterm*vt100.color6: #008080
+xterm*vt100.color7: #c0c0c0
+xterm*vt100.color8: #808080
+xterm*vt100.color9: #ff0000
+xterm*vt100.color10: #00ff00
+xterm*vt100.color11: #ffff00
+xterm*vt100.color12: #0000ff
+xterm*vt100.color13: #ff00ff
+xterm*vt100.color14: #00ffff
+xterm*vt100.color15: #ffffff
 
 ! Define xterm colors > "xterm-256color, xterm-16color, xterm-mono"
 xterm.termName: xterm-256color

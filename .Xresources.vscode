@@ -1,24 +1,24 @@
 ! XTerm configuration with VS Code style colors and fonts.
 
 ! Colors:
-xterm*vt100.background: rgb:1e/1e/1e
-xterm*vt100.foreground: rgb:d4/d4/d4
-xterm*vt100.color0: rgb:00/00/00
-xterm*vt100.color1: rgb:c5/0f/1f
-xterm*vt100.color2: rgb:16/82/5d
-xterm*vt100.color3: rgb:d7/ba/7d
-xterm*vt100.color4: rgb:00/7a/cc
-xterm*vt100.color5: rgb:68/21/7a
-xterm*vt100.color6: rgb:98/c7/e1
-xterm*vt100.color7: rgb:d4/d4/d4
-xterm*vt100.color8: rgb:85/85/85
-xterm*vt100.color9: rgb:da/67/71
-xterm*vt100.color10: rgb:6a/99/53
-xterm*vt100.color11: rgb:ff/d7/00
-xterm*vt100.color12: rgb:04/39/5e
-xterm*vt100.color13: rgb:d4/70/d6
-xterm*vt100.color14: rgb:9c/dc/fe
-xterm*vt100.color15: rgb:ff/ff/ff
+xterm*vt100.background: #1e1e1e
+xterm*vt100.foreground: #d4d4d4
+xterm*vt100.color0: #000000
+xterm*vt100.color1: #c50f1f
+xterm*vt100.color2: #16825d
+xterm*vt100.color3: #d7ba7d
+xterm*vt100.color4: #007acc
+xterm*vt100.color5: #68217a
+xterm*vt100.color6: #98c7e1
+xterm*vt100.color7: #d4d4d4
+xterm*vt100.color8: #858585
+xterm*vt100.color9: #da6771
+xterm*vt100.color10: #6a9953
+xterm*vt100.color11: #ffd700
+xterm*vt100.color12: #04395e
+xterm*vt100.color13: #d470d6
+xterm*vt100.color14: #9cdcfe
+xterm*vt100.color15: #ffffff
 
 ! Define xterm colors > "xterm-256color, xterm-16color, xterm-mono"
 xterm.termName: xterm-256color
