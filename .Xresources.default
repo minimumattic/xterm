@@ -4,7 +4,7 @@
 xterm.termName: xterm-256color
 
 ! Reverse colors > on: white on black, off: black on white
-xterm*vt100.reverseVideo: on
+xterm*vt100.reverseVideo: off
 
 ! Ensure using UTF-8
 ! xterm.vt100.locale: true
