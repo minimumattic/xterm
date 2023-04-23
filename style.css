@@ -9,12 +9,16 @@ h4 {
     text-decoration-line: underline;
 }
 
+h5 {
+    margin: 0 0 20px 20px;
+}
+
 table {
     font-family: Dejavu Sans Mono;
     border-collapse: collapse;
     border: 1px solid rgb(0,0,0);
     font-size: 0.8rem;
-    margin: 0 0 50px 30px;
+    margin: 0 0 40px 20px;
 }
 
 td, th {
@@ -27,7 +31,7 @@ td {
 }
 
 img {
-    margin: 0 0 50px 30px;
+    margin: 0 0 20px 20px;
 }
 
 /* Default (White on Black) colors */
@@ -149,6 +153,126 @@ td.winterminalColor12 {background: #3b78ff;color: #fff;}
 td.winterminalColor13 {background: #b4009e;color: #fff;}
 td.winterminalColor14 {background: #61d6d6;color: #000;}
 td.winterminalColor15 {background: #f2f2f2;color: #000;}
+
+/* Commodore 64 (C64) - 8color*/
+td.c648Background {background: #40318d;color: #fff;}
+td.c648Font {background: #7869c4;color: #000;}
+td.c648Color0 {background: #090300;color: #fff;}
+td.c648Color1 {background: #883932;color: #fff;}
+td.c648Color2 {background: #55a049;color: #000;}
+td.c648Color3 {background: #bfce72;color: #000;}
+td.c648Color4 {background: #0000aa;color: #fff;}
+td.c648Color5 {background: #8b3f96;color: #fff;}
+td.c648Color6 {background: #67b6bd;color: #000;}
+td.c648Color7 {background: #ffffff;color: #000;}
+td.c648Color8 {background: #000000;color: #fff;}
+td.c648Color9 {background: #883932;color: #fff;}
+td.c648Color10 {background: #55a049;color: #000;}
+td.c648Color11 {background: #bfce72;color: #000;}
+td.c648Color12 {background: #0000aa;color: #fff;}
+td.c648Color13 {background: #8b3f96;color: #fff;}
+td.c648Color14 {background: #67b6bd;color: #000;}
+td.c648Color15 {background: #f7f7f7;color: #000;}
+
+/* Commodore 64 (C64) - 16color*/
+td.c6416Background {background: #4242e7;color: #fff;}
+td.c6416Font {background: #a5a5ff;color: #000;}
+td.c6416Color0 {background: #000000;color: #fff;}
+td.c6416Color1 {background: #ffffff;color: #000;}
+td.c6416Color2 {background: #9f4e44;color: #000;}
+td.c6416Color3 {background: #6abfc6;color: #000;}
+td.c6416Color4 {background: #a057a3;color: #fff;}
+td.c6416Color5 {background: #5cab5e;color: #000;}
+td.c6416Color6 {background: #50459b;color: #000;}
+td.c6416Color7 {background: #c9d487;color: #000;}
+td.c6416Color8 {background: #a1683c;color: #fff;}
+td.c6416Color9 {background: #6d5412;color: #fff;}
+td.c6416Color10 {background: #cb7e75;color: #000;}
+td.c6416Color11 {background: #626262;color: #000;}
+td.c6416Color12 {background: #898989;color: #fff;}
+td.c6416Color13 {background: #9ae29b;color: #000;}
+td.c6416Color14 {background: #887ecb;color: #000;}
+td.c6416Color15 {background: #adadad;color: #000;}
+
+/* Github colors */
+td.githubBackground {background: #f4f4f4;color: #000;}
+td.githubFont {background: #3e3e3e;color: #fff;}
+td.githubColor0 {background: #3e3e3e;color: #fff;}
+td.githubColor1 {background: #970b16;color: #fff;}
+td.githubColor2 {background: #07962a;color: #fff;}
+td.githubColor3 {background: #f8eec7;color: #000;}
+td.githubColor4 {background: #003e8a;color: #fff;}
+td.githubColor5 {background: #e94691;color: #000;}
+td.githubColor6 {background: #89d1ec;color: #000;}
+td.githubColor7 {background: #ffffff;color: #000;}
+td.githubColor8 {background: #666666;color: #fff;}
+td.githubColor9 {background: #de0000;color: #fff;}
+td.githubColor10 {background: #87d5a2;color: #000;}
+td.githubColor11 {background: #f1d007;color: #000;}
+td.githubColor12 {background: #2e6cba;color: #fff;}
+td.githubColor13 {background: #ffa29f;color: #000;}
+td.githubColor14 {background: #1cfafe;color: #000;}
+td.githubColor15 {background: #ffffff;color: #000;}
+
+/* Firefox colors */
+td.firefoxBackground {background: #0e1011;color: #fff;}
+td.firefoxFont {background: #7c8fa4;color: #000;}
+td.firefoxColor0 {background: #002831;color: #fff;}
+td.firefoxColor1 {background: #e63853;color: #000;}
+td.firefoxColor2 {background: #5eb83c;color: #000;}
+td.firefoxColor3 {background: #a57706;color: #000;}
+td.firefoxColor4 {background: #359ddf;color: #000;}
+td.firefoxColor5 {background: #d75cff;color: #000;}
+td.firefoxColor6 {background: #4b73a2;color: #000;}
+td.firefoxColor7 {background: #dcdcdc;color: #000;}
+td.firefoxColor8 {background: #001e27;color: #fff;}
+td.firefoxColor9 {background: #e1003f;color: #000;}
+td.firefoxColor10 {background: #1d9000;color: #000;}
+td.firefoxColor11 {background: #cd9409;color: #000;}
+td.firefoxColor12 {background: #006fc0;color: #000;}
+td.firefoxColor13 {background: #a200da;color: #000;}
+td.firefoxColor14 {background: #005794;color: #000;}
+td.firefoxColor15 {background: #e2e2e2;color: #000;}
+
+/* Batman colors */
+td.batmanBackground {background: #1b1d1e;color: #fff;}
+td.batmanFont {background: #6f6f6f;color: #000;}
+td.batmanColor0 {background: #1b1d1e;color: #fff;}
+td.batmanColor1 {background: #e6dc44;color: #000;}
+td.batmanColor2 {background: #c8be46;color: #000;}
+td.batmanColor3 {background: #f4fd22;color: #000;}
+td.batmanColor4 {background: #737174;color: #fff;}
+td.batmanColor5 {background: #747271;color: #fff;}
+td.batmanColor6 {background: #62605f;color: #fff;}
+td.batmanColor7 {background: #c6c5bf;color: #000;}
+td.batmanColor8 {background: #505354;color: #fff;}
+td.batmanColor9 {background: #fff78e;color: #000;}
+td.batmanColor10 {background: #fff27d;color: #000;}
+td.batmanColor11 {background: #feed6c;color: #000;}
+td.batmanColor12 {background: #919495;color: #000;}
+td.batmanColor13 {background: #9a9a9d;color: #000;}
+td.batmanColor14 {background: #a3a3a6;color: #000;}
+td.batmanColor15 {background: #dadbd6;color: #000;}
+
+/* Hulk colors */
+td.hulkBackground {background: #1b1d1e;color: #fff;}
+td.hulkFont {background: #b5b5b5;color: #000;}
+td.hulkColor0 {background: #1b1d1e;color: #fff;}
+td.hulkColor1 {background: #269d1b;color: #000;}
+td.hulkColor2 {background: #13ce30;color: #000;}
+td.hulkColor3 {background: #63e457;color: #000;}
+td.hulkColor4 {background: #2525f5;color: #fff;}
+td.hulkColor5 {background: #641f74;color: #fff;}
+td.hulkColor6 {background: #378ca9;color: #fff;}
+td.hulkColor7 {background: #d9d8d1;color: #000;}
+td.hulkColor8 {background: #505354;color: #fff;}
+td.hulkColor9 {background: #8dff2a;color: #000;}
+td.hulkColor10 {background: #48ff77;color: #000;}
+td.hulkColor11 {background: #3afe16;color: #000;}
+td.hulkColor12 {background: #506b95;color: #fff;}
+td.hulkColor13 {background: #72589d;color: #fff;}
+td.hulkColor14 {background: #4085a6;color: #fff;}
+td.hulkColor15 {background: #e5e6e1;color: #000;}
 
 /* custom colors */
 td.customBackground {background: #000000;color: #fff;}
@@ -273,9 +397,11 @@ td.amberColor15 {background: #ffb000;color: #000;}
 
 /* Phosphor Color Codes */
 
-div {background: #282828;padding: 20px;margin: 0 0 50px 30px;}
-
-p {font-size: 14pt;margin: 20px;}
+div {
+    background: #282828;
+    padding: 10px;
+    margin: 0 0 20px 20px;
+}
 
 p.amber {color: #ffb000;}
 p.amberLt {color: #ffcc00;}
@@ -288,8 +414,8 @@ p.phosphorBackground {color: #aaa;}
 
 table.phosphor {
     font-family: Sans;
-    font-size: 14pt;
-    margin: 0 0 20px 20px;
+    font-size: 10pt;
+    margin: 10px 40px 10px 40px;
     border-collapse: collapse;
     border: none;
 }
@@ -320,3 +446,43 @@ tr.green2 {color: #00ff33;}
 tr.apple2c {color: #66ff66;}
 tr.green3 {color: #00ff66;}
 tr.phosphorBackground {color: #aaa;}
+
+/* Solarized */
+td.solarBackground {background: #002b36;color: #fff;}
+td.solarFont {background: #657b83;color: #000;}
+td.solarColor0 {background: #073642;color: #fff;}
+td.solarColor1 {background: #dc322f;color: #fff;}
+td.solarColor2 {background: #859900;color: #fff;}
+td.solarColor3 {background: #b58900;color: #fff;}
+td.solarColor4 {background: #268bd2;color: #fff;}
+td.solarColor5 {background: #d33682;color: #fff;}
+td.solarColor6 {background: #2aa198;color: #fff;}
+td.solarColor7 {background: #eee8d5;color: #000;}
+td.solarColor8 {background: #002b36;color: #fff;}
+td.solarColor9 {background: #cb4b16;color: #fff;}
+td.solarColor10 {background: #586e75;color: #000;}
+td.solarColor11 {background: #657b83;color: #000;}
+td.solarColor12 {background: #839496;color: #fff;}
+td.solarColor13 {background: #6c71c4;color: #fff;}
+td.solarColor14 {background: #93a1a1;color: #000;}
+td.solarColor15 {background: #fdf6e3;color: #000;}
+
+/* Solarized Light*/
+td.solarLightBackground {background: #fdf6e3;color: #000;}
+td.solarLightFont {background: #839496;color: #000;}
+td.solarLightColor0 {background: #eee8d5;color: #000;}
+td.solarLightColor1 {background: #dc322f;color: #fff;}
+td.solarLightColor2 {background: #859900;color: #fff;}
+td.solarLightColor3 {background: #b58900;color: #fff;}
+td.solarLightColor4 {background: #268bd2;color: #fff;}
+td.solarLightColor5 {background: #d33682;color: #fff;}
+td.solarLightColor6 {background: #2aa198;color: #fff;}
+td.solarLightColor7 {background: #073642;color: #fff;}
+td.solarLightColor8 {background: #fdf6e3;color: #000;}
+td.solarLightColor9 {background: #cb4b16;color: #fff;}
+td.solarLightColor10 {background: #93a1a1;color: #000;}
+td.solarLightColor11 {background: #839496;color: #000;}
+td.solarLightColor12 {background: #657b83;color: #fff;}
+td.solarLightColor13 {background: #6c71c4;color: #fff;}
+td.solarLightColor14 {background: #586e75;color: #000;}
+td.solarLightColor15 {background: #002b36;color: #fff;}
