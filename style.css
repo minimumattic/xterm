@@ -5,11 +5,11 @@ html {
 }
 
 h4 {
-    font-style: italic;
     text-decoration-line: underline;
 }
 
 h5 {
+    font-style: italic;
     margin: 0 0 20px 20px;
 }
 
