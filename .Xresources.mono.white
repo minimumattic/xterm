@@ -4,21 +4,21 @@
 xterm*vt100.background: #ffffff
 xterm*vt100.foreground: #000000
 xterm*vt100.color0: #000000
-xterm*vt100.color1: #121212
-xterm*vt100.color2: #303030
-xterm*vt100.color3: #444444
-xterm*vt100.color4: #080808
-xterm*vt100.color5: #1c1c1c
-xterm*vt100.color6: #3a3a3a
-xterm*vt100.color7: #808080
-xterm*vt100.color8: #4e4e4e
-xterm*vt100.color9: #585858
-xterm*vt100.color10: #8a8a8a
-xterm*vt100.color11: #9e9e9e
-xterm*vt100.color12: #262626
-xterm*vt100.color13: #626262
-xterm*vt100.color14: #949494
-xterm*vt100.color15: #a8a8a8
+xterm*vt100.color1: #323232
+xterm*vt100.color2: #666666
+xterm*vt100.color3: #999999
+xterm*vt100.color4: #191919
+xterm*vt100.color5: #4c4c4c
+xterm*vt100.color6: #7f7f7f
+xterm*vt100.color7: #b2b2b2
+xterm*vt100.color8: #000000
+xterm*vt100.color9: #323232
+xterm*vt100.color10: #666666
+xterm*vt100.color11: #999999
+xterm*vt100.color12: #191919
+xterm*vt100.color13: #4c4c4c
+xterm*vt100.color14: #7f7f7f
+xterm*vt100.color15: #b2b2b2
 
 ! Define xterm colors > "xterm-256color, xterm-16color, xterm-mono"
 xterm.termName: xterm-16color
@@ -42,13 +42,6 @@ xterm*vt100.renderFont: false
 ! Default font and size:
 xterm*vt100.faceName: DejaVu Sans Mono
 xterm*vt100.faceSize: 12
-
-! Enable/Disable TrueType fonts:
-xterm*vt100.renderFont: false
-
-! Default font and size:
-xterm*vt100.faceName: Consolas
-xterm*vt100.faceSize: 13
 
 ! Chinese fonts:
 xterm*vt100.faceNameDoublesize: AR PL UMing HK

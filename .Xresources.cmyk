@@ -15,8 +15,8 @@
 *.cursorColor: #fff200
 
 ! Black
-*.color0:      #000000
-*.color8:      #000000
+*.color0:      #404040
+*.color8:      #404040
 !
 ! Magenta
 *.color1:      #ec008c
@@ -30,17 +30,17 @@
 *.color3:      #fff200
 *.color11:     #fff200
 !
-! Cyan
-*.color4:      #00aeef
-*.color12:     #00aeef
-!
 ! Magenta
-*.color5:      #ec008c
-*.color13:     #ec008c
+*.color4:      #ec008c
+*.color12:     #ec008c
 !
 ! Yellow
-*.color6:      #fff200
-*.color14:     #fff200
+*.color5:      #fff200
+*.color13:     #fff200
+!
+! Cyan
+*.color6:      #00aeef
+*.color14:     #00aeef
 !
 ! White
 *.color7:      #ffffff
