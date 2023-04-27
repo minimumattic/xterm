@@ -1,27 +1,25 @@
 ! XTerm Minecraft configuration.
 
 ! Colors:
-
-*.foreground:  #aaaaaa
-*.background:  #000000
-*.cursorColor: #aaaaaa
-
-*.color0:      #000000
-*.color1:      #0000aa
-*.color2:      #00aa00
-*.color3:      #00aaaa
-*.color4:      #aa0000
-*.color5:      #aa00aa
-*.color6:      #ffaa00
-*.color7:      #aaaaaa
-*.color8:      #555555
-*.color9:      #5555ff
-*.color10:     #55ff55
-*.color11:     #55ffff
-*.color12:     #ff5555
-*.color13:     #ff55ff
-*.color14:     #ffff55
-*.color15:     #ffffff
+xterm*vt100.foreground:  #aaaaaa
+xterm*vt100.background:  #000000
+xterm*vt100.cursorColor: #aaaaaa
+xterm*vt100.color0:      #000000
+xterm*vt100.color1:      #0000aa
+xterm*vt100.color2:      #00aa00
+xterm*vt100.color3:      #00aaaa
+xterm*vt100.color4:      #aa0000
+xterm*vt100.color5:      #aa00aa
+xterm*vt100.color6:      #ffaa00
+xterm*vt100.color7:      #aaaaaa
+xterm*vt100.color8:      #555555
+xterm*vt100.color9:      #5555ff
+xterm*vt100.color10:     #55ff55
+xterm*vt100.color11:     #55ffff
+xterm*vt100.color12:     #ff5555
+xterm*vt100.color13:     #ff55ff
+xterm*vt100.color14:     #ffff55
+xterm*vt100.color15:     #ffffff
 
 ! Bold, Italic, Underline
 *.colorBD:     #ffffff

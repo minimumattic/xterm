@@ -1,46 +1,42 @@
 ! XTerm C64 - 16color configuration.
 
 ! Colors:
-!
-! Generated with :
-! XRDB2Xreources.py
-!
-*.foreground:  #a5a5ff
-*.background:  #4242e7
-*.cursorColor: #a5a5ff
-!
+xterm*vt100.foreground:  #a5a5ff
+xterm*vt100.background:  #4242e7
+xterm*vt100.cursorColor: #a5a5ff
+
 ! Black
-*.color0:      #000000
-*.color8:      #a1683c
-!
+xterm*vt100.color0:      #000000
+xterm*vt100.color8:      #a1683c
+
 ! Red
-*.color1:      #ffffff
-*.color9:      #6d5412
-!
+xterm*vt100.color1:      #ffffff
+xterm*vt100.color9:      #6d5412
+
 ! Green
-*.color2:      #9f4e44
-*.color10:     #cb7e75
-!
+xterm*vt100.color2:      #9f4e44
+xterm*vt100.color10:     #cb7e75
+
 ! Yellow
-*.color3:      #6abfc6
-*.color11:     #626262
-!
+xterm*vt100.color3:      #6abfc6
+xterm*vt100.color11:     #626262
+
 ! Blue
-*.color4:      #a057a3
-*.color12:     #898989
-!
+xterm*vt100.color4:      #a057a3
+xterm*vt100.color12:     #898989
+
 ! Magenta
-*.color5:      #5cab5e
-*.color13:     #9ae29b
-!
+xterm*vt100.color5:      #5cab5e
+xterm*vt100.color13:     #9ae29b
+
 ! Cyan
-*.color6:      #50459b
-*.color14:     #887ecb
-!
+xterm*vt100.color6:      #50459b
+xterm*vt100.color14:     #887ecb
+
 ! White
-*.color7:      #c9d487
-*.color15:     #adadad
-!
+xterm*vt100.color7:      #c9d487
+xterm*vt100.color15:     #adadad
+
 ! Bold, Italic, Underline
 *.colorBD:     #a5a2a2
 !*.colorIT:

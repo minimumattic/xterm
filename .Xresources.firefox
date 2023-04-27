@@ -1,46 +1,42 @@
 ! XTerm Blueprint monochrome configuration.
 
 ! Colors:
-!
-! Generated with :
-! XRDB2Xreources.py
-!
-*.foreground:  #7c8fa4
-*.background:  #0e1011
-*.cursorColor: #708284
-!
+xterm*vt100.foreground:  #7c8fa4
+xterm*vt100.background:  #0e1011
+xterm*vt100.cursorColor: #708284
+
 ! Black
-*.color0:      #002831
-*.color8:      #001e27
-!
+xterm*vt100.color0:      #002831
+xterm*vt100.color8:      #001e27
+
 ! Red
-*.color1:      #e63853
-*.color9:      #e1003f
-!
+xterm*vt100.color1:      #e63853
+xterm*vt100.color9:      #e1003f
+
 ! Green
-*.color2:      #5eb83c
-*.color10:     #1d9000
-!
+xterm*vt100.color2:      #5eb83c
+xterm*vt100.color10:     #1d9000
+
 ! Yellow
-*.color3:      #a57706
-*.color11:     #cd9409
-!
+xterm*vt100.color3:      #a57706
+xterm*vt100.color11:     #cd9409
+
 ! Blue
-*.color4:      #359ddf
-*.color12:     #006fc0
-!
+xterm*vt100.color4:      #359ddf
+xterm*vt100.color12:     #006fc0
+
 ! Magenta
-*.color5:      #d75cff
-*.color13:     #a200da
-!
+xterm*vt100.color5:      #d75cff
+xterm*vt100.color13:     #a200da
+
 ! Cyan
-*.color6:      #4b73a2
-*.color14:     #005794
-!
+xterm*vt100.color6:      #4b73a2
+xterm*vt100.color14:     #005794
+
 ! White
-*.color7:      #dcdcdc
-*.color15:     #e2e2e2
-!
+xterm*vt100.color7:      #dcdcdc
+xterm*vt100.color15:     #e2e2e2
+
 ! Bold, Italic, Underline
 *.colorBD:     #a7acb2
 !*.colorIT:
