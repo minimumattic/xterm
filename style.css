@@ -36,7 +36,7 @@ img {
 
 /* Default (White on Black) colors */
 td.defaultBackground {background: #000000;color: #fff;}
-td.defaultFont {background: #ffffff;color: #000;}
+td.defaultForeground {background: #ffffff;color: #000;}
 td.defaultColor0 {background: #000000;color: #fff;}
 td.defaultColor1 {background: #800000;color: #fff;}
 td.defaultColor2 {background: #008000;color: #fff;}
@@ -56,7 +56,7 @@ td.defaultColor15 {background: #ffffff;color: #000;}
 
 /* VGA colors */
 td.vgaBackground {background: #000000;color: #fff;}
-td.vgaFont {background: #aaaaaa;color: #000;}
+td.vgaForeground {background: #aaaaaa;color: #000;}
 td.vgaColor0 {background: #000000;color: #fff;}
 td.vgaColor1 {background: #aa0000;color: #fff;}
 td.vgaColor2 {background: #00aa00;color: #fff;}
@@ -76,7 +76,7 @@ td.vgaColor15 {background: #ffffff;color: #000;}
 
 /* Ubuntu colors */
 td.ubuntuBackground {background: #380c2a;color: #fff;}
-td.ubuntuFont {background: #ffffff;color: #000;}
+td.ubuntuForeground {background: #ffffff;color: #000;}
 td.ubuntuColor0 {background: #171421;color: #fff;}
 td.ubuntuColor1 {background: #c01c28;color: #fff;}
 td.ubuntuColor2 {background: #26a269;color: #fff;}
@@ -96,7 +96,7 @@ td.ubuntuColor15 {background: #ffffff;color: #000;}
 
 /* DOS colors */
 td.dosBackground {background: #000000;color: #fff;}
-td.dosFont {background: #aaaaaa;color: #000;}
+td.dosForeground {background: #aaaaaa;color: #000;}
 td.dosColor0 {background: #000000;color: #fff;}
 td.dosColor1 {background: #cd0000;color: #fff;}
 td.dosColor2 {background: #00cd00;color: #fff;}
@@ -116,7 +116,7 @@ td.dosColor15 {background: #ffffff;color: #000;}
 
 /* VS Code colors */
 td.vscodeBackground {background: #1e1e1e;color: #fff;}
-td.vscodeFont {background: #d4d4d4;color: #000;}
+td.vscodeForeground {background: #d4d4d4;color: #000;}
 td.vscodeColor0 {background: #000000;color: #fff;}
 td.vscodeColor1 {background: #c50f1f;color: #fff;}
 td.vscodeColor2 {background: #16825d;color: #fff;}
@@ -136,7 +136,7 @@ td.vscodeColor15 {background: #ffffff;color: #000;}
 
 /* Powershell colors */
 td.powershellBackground {background: rgb(01,36,86);color: #fff;}
-td.powershellFont {background: #eeedf0;color: #000;}
+td.powershellForeground {background: #eeedf0;color: #000;}
 td.powershellColor0 {background: #000000;color: #fff;}
 td.powershellColor1 {background: #800000;color: #fff;}
 td.powershellColor2 {background: #008000;color: #fff;}
@@ -156,7 +156,7 @@ td.powershellColor15 {background: #ffffff;color: #000;}
 
 /* Windows Terminal (Campbell) colors */
 td.winterminalBackground {background: #0c0c0c;color: #fff;}
-td.winterminalFont {background: #cccccc;color: #000;}
+td.winterminalForeground {background: #cccccc;color: #000;}
 td.winterminalColor0 {background: #0c0c0c;color: #fff;}
 td.winterminalColor1 {background: #c50f1f;color: #fff;}
 td.winterminalColor2 {background: #13a10e;color: #fff;}
@@ -176,7 +176,7 @@ td.winterminalColor15 {background: #f2f2f2;color: #000;}
 
 /* Commodore 64 (C64) - 8color*/
 td.c648Background {background: #40318d;color: #fff;}
-td.c648Font {background: #7869c4;color: #000;}
+td.c648Foreground {background: #7869c4;color: #000;}
 td.c648Color0 {background: #090300;color: #fff;}
 td.c648Color1 {background: #883932;color: #fff;}
 td.c648Color2 {background: #55a049;color: #000;}
@@ -196,7 +196,7 @@ td.c648Color15 {background: #f7f7f7;color: #000;}
 
 /* Commodore 64 (C64) - 16color*/
 td.c6416Background {background: #4242e7;color: #fff;}
-td.c6416Font {background: #a5a5ff;color: #000;}
+td.c6416Foreground {background: #a5a5ff;color: #000;}
 td.c6416Color0 {background: #000000;color: #fff;}
 td.c6416Color1 {background: #ffffff;color: #000;}
 td.c6416Color2 {background: #9f4e44;color: #000;}
@@ -216,7 +216,7 @@ td.c6416Color15 {background: #adadad;color: #000;}
 
 /* Github colors */
 td.githubBackground {background: #f4f4f4;color: #000;}
-td.githubFont {background: #3e3e3e;color: #fff;}
+td.githubForeground {background: #3e3e3e;color: #fff;}
 td.githubColor0 {background: #3e3e3e;color: #fff;}
 td.githubColor1 {background: #970b16;color: #fff;}
 td.githubColor2 {background: #07962a;color: #fff;}
@@ -236,7 +236,7 @@ td.githubColor15 {background: #ffffff;color: #000;}
 
 /* Firefox colors */
 td.firefoxBackground {background: #0e1011;color: #fff;}
-td.firefoxFont {background: #7c8fa4;color: #000;}
+td.firefoxForeground {background: #7c8fa4;color: #000;}
 td.firefoxColor0 {background: #002831;color: #fff;}
 td.firefoxColor1 {background: #e63853;color: #000;}
 td.firefoxColor2 {background: #5eb83c;color: #000;}
@@ -256,7 +256,7 @@ td.firefoxColor15 {background: #e2e2e2;color: #000;}
 
 /* Batman colors */
 td.batmanBackground {background: #1b1d1e;color: #fff;}
-td.batmanFont {background: #6f6f6f;color: #000;}
+td.batmanForeground {background: #6f6f6f;color: #000;}
 td.batmanColor0 {background: #1b1d1e;color: #fff;}
 td.batmanColor1 {background: #e6dc44;color: #000;}
 td.batmanColor2 {background: #c8be46;color: #000;}
@@ -276,7 +276,7 @@ td.batmanColor15 {background: #dadbd6;color: #000;}
 
 /* Hulk colors */
 td.hulkBackground {background: #1b1d1e;color: #fff;}
-td.hulkFont {background: #b5b5b5;color: #000;}
+td.hulkForeground {background: #b5b5b5;color: #000;}
 td.hulkColor0 {background: #1b1d1e;color: #fff;}
 td.hulkColor1 {background: #269d1b;color: #000;}
 td.hulkColor2 {background: #13ce30;color: #000;}
@@ -296,7 +296,7 @@ td.hulkColor15 {background: #e5e6e1;color: #000;}
 
 /* Minecraft colors */
 td.minecraftBackground {background: #000000;color: #fff;}
-td.minecraftFont {background: #aaaaaa;color: #000;}
+td.minecraftForeground {background: #aaaaaa;color: #000;}
 td.minecraftColor0 {background: #000000;color: #fff;}
 td.minecraftColor1 {background: #0000aa;color: #fff;}
 td.minecraftColor2 {background: #00aa00;color: #000;}
@@ -316,7 +316,7 @@ td.minecraftColor15 {background: #ffffff;color: #000;}
 
 /* custom colors */
 td.customBackground {background: #000000;color: #fff;}
-td.customFont {background: #a8a8a8;color: #000;}
+td.customForeground {background: #a8a8a8;color: #000;}
 td.customColor0 {background: #000000;color: #fff;}
 td.customColor1 {background: #a80000;color: #fff;}
 td.customColor2 {background: #00a800;color: #fff;}
@@ -336,7 +336,7 @@ td.customColor15 {background: #fcfcfc;color: #000;}
 
 /* Monochrome (black on white) */
 td.monowhiteBackground {background: #ffffff;color: #000;}
-td.monowhiteFont {background: #000000;color: #fff;}
+td.monowhiteForeground {background: #000000;color: #fff;}
 td.monowhiteColor0 {background: #000000;color: #fff;}
 td.monowhiteColor1 {background: #323232;color: #fff;}
 td.monowhiteColor2 {background: #666666;color: #fff;}
@@ -356,7 +356,7 @@ td.monowhiteColor15 {background: #b2b2b2;color: #fff;}
 
 /* Monochrome (white on black) */
 td.monoblackBackground {background: #000000;color: #fff;}
-td.monoblackFont {background: #ffffff;color: #000;}
+td.monoblackForeground {background: #ffffff;color: #000;}
 td.monoblackColor0 {background: #ffffff;color: #000;}
 td.monoblackColor1 {background: #b2b2b2;color: #000;}
 td.monoblackColor2 {background: #cbcbcb;color: #000;}
@@ -376,7 +376,7 @@ td.monoblackColor15 {background: #ffffff;color: #000;}
 
 /* Monochrome (blueprint) */
 td.monoblueBackground {background: #005fd7;color: #fff;}
-td.monoblueFont {background: #ffffff;color: #000;}
+td.monoblueForeground {background: #ffffff;color: #000;}
 td.monoblueColor0 {background: #ffffff;color: #000;}
 td.monoblueColor1 {background: #b2b2b2;color: #000;}
 td.monoblueColor2 {background: #cbcbcb;color: #000;}
@@ -396,7 +396,7 @@ td.monoblueColor15 {background: #ffffff;color: #000;}
 
 /* Amber Phosphor */
 td.amberBackground {background: #282828;color: #fff;}
-td.amberFont {background: #ffb000;color: #000;}
+td.amberForeground {background: #ffb000;color: #000;}
 td.amberColor0 {background: #664600;color: #fff;}
 td.amberColor1 {background: #7f5800;color: #fff;}
 td.amberColor2 {background: #cc8c00;color: #000;}
@@ -416,7 +416,7 @@ td.amberColor15 {background: #ffb000;color: #000;}
 
 /* Green Phosphor */
 td.greenBackground {background: #282828;color: #fff;}
-td.greenFont {background: #00ff66;color: #000;}
+td.greenForeground {background: #00ff66;color: #000;}
 td.greenColor0 {background: #006628;color: #fff;}
 td.greenColor1 {background: #007f33;color: #fff;}
 td.greenColor2 {background: #00cc51;color: #000;}
@@ -436,7 +436,7 @@ td.greenColor15 {background: #00ff66;color: #000;}
 
 /* Blue Phosphor */
 td.blueBackground {background: #282828;color: #fff;}
-td.blueFont {background: #00a3dd;color: #000;}
+td.blueForeground {background: #00a3dd;color: #000;}
 td.blueColor0 {background: #004158;color: #fff;}
 td.blueColor1 {background: #00516e;color: #fff;}
 td.blueColor2 {background: #0082b0;color: #000;}
@@ -511,7 +511,7 @@ tr.phosphorBackground {color: #aaa;}
 
 /* Solarized */
 td.solarBackground {background: #002b36;color: #fff;}
-td.solarFont {background: #657b83;color: #000;}
+td.solarForeground {background: #657b83;color: #000;}
 td.solarColor0 {background: #073642;color: #fff;}
 td.solarColor1 {background: #dc322f;color: #fff;}
 td.solarColor2 {background: #859900;color: #fff;}
@@ -531,7 +531,7 @@ td.solarColor15 {background: #fdf6e3;color: #000;}
 
 /* Solarized Light*/
 td.solarLightBackground {background: #fdf6e3;color: #000;}
-td.solarLightFont {background: #839496;color: #000;}
+td.solarLightForeground {background: #839496;color: #000;}
 td.solarLightColor0 {background: #eee8d5;color: #000;}
 td.solarLightColor1 {background: #dc322f;color: #fff;}
 td.solarLightColor2 {background: #859900;color: #fff;}
@@ -551,7 +551,7 @@ td.solarLightColor15 {background: #002b36;color: #fff;}
 
 /* CMYK*/
 td.cmykBackground {background: #000000;color: #fff;}
-td.cmykFont {background: #aaaaaa;color: #000;}
+td.cmykForeground {background: #aaaaaa;color: #000;}
 td.cmykColor0 {background: #404040;color: #fff;}
 td.cmykColor1 {background: #ec008c;color: #000;}
 td.cmykColor2 {background: #00aeef;color: #000;}
