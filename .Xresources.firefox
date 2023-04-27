@@ -1,4 +1,4 @@
-! XTerm Blueprint monochrome configuration.
+! XTerm Firefox colors configuration.
 
 ! Colors:
 xterm*vt100.foreground:  #7c8fa4

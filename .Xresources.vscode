@@ -1,4 +1,4 @@
-! XTerm configuration with VS Code style colors and fonts.
+! XTerm configuration with Visual Studio Code style colors and fonts.
 
 ! Colors:
 xterm*vt100.background: #1e1e1e
