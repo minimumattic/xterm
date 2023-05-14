@@ -1,6 +1,6 @@
 # XTerm
 
-my custom XTerm configuration
+my custom XTerm configurations
 
 copy .Xresources file you want to use in your home/$user directory (name should be ".Xresources" so delete any naming ".xxxx" in ".Xresources.xxxx") and run "xrdb -merge ~/.Xresources" to merge.
 
