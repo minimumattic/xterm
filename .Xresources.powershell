@@ -1,7 +1,7 @@
 ! XTerm configuration with Windows Powershell style colors and fonts.
 
 ! Colors:
-xterm*vt100.background: rgb:01/36/86
+xterm*vt100.background: #012456
 xterm*vt100.foreground: #eeedf0
 xterm*vt100.color0: #000000
 xterm*vt100.color1: #800000
