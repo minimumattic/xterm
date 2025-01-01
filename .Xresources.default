@@ -83,3 +83,6 @@ xterm*vt100.internalBorder: 2
 ! "xrdb -query > current_X_resources" --> view current X resources
 ! "xrdb -load ~/.Xresources" --> load and replace old entries
 ! "xrdb -merge ~/.Xresources" --> merges with any existing X resources
+
+! screen scaling (96 is default)
+Xft.dpi: 96
